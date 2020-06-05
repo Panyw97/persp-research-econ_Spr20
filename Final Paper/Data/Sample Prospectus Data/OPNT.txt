@@ -1,0 +1,2338 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IZtmYFq0eMods1kU2YA+nBLhiS/KPXvfdkiN3WEJk+EuQTruJ+Bt0SegfyTka6BX
+ dHbLtJbBKo4u8unP1Q1vEA==
+
+ 0001165527-07-000576.txt : 20071017
+ 0001165527-07-000576.hdr.sgml : 20071017
+ 20071017132935
+ACCESSION NUMBER:		0001165527-07-000576
+CONFORMED SUBMISSION TYPE:	424B3
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20071017
+DATE AS OF CHANGE:		20071017
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Madrona Ventures, Inc.
+		CENTRAL INDEX KEY:			0001385508
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		424B3
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	333-139915
+		FILM NUMBER:		071175998
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SUITE 102-5212 48TH STREET
+		CITY:			RED DEER
+		STATE:			A0
+		ZIP:			T4N 7C3
+		BUSINESS PHONE:		403-770-8095
+
+	MAIL ADDRESS:	
+		STREET 1:		SUITE 102-5212 48TH STREET
+		CITY:			RED DEER
+		STATE:			A0
+		ZIP:			T4N 7C3
+ 
+ 
+ 424B3
+ 1
+ g1997.txt
+ FINAL PROSPECTUS
+ 
+                                               Filed pursuant to Rule 4242(b)(3)
+                                                  Registration Number 333-139915
+
+                                   PROSPECTUS
+
+                              MADRONA VENTURES INC.
+               1,525,000 SHARES OF COMMON STOCK AT $.25 PER SHARE
+
+
+The selling shareholders named in this prospectus are offering all of the shares
+of common stock offered through this prospectus. Madrona Ventures Inc. will not
+receive any proceeds from the sale of shares by the selling shareholders.
+
+Our common stock is presently not traded on any market or securities exchange.
+
+The sales price to the public was set by the selling shareholders at $0.25 per
+share for a total of $381,250. The price of $0.25 per share is a fixed price
+until the shares are listed on the OTC Bulletin Board or other national
+exchange, and thereafter at prevailing market prices or privately negotiated
+prices.
+
+INVESTORS IN THE COMMON STOCK SHOULD HAVE THE ABILITY TO LOSE THEIR ENTIRE
+INVESTMENT SINCE AN INVESTMENT IN THE COMMON STOCK IS SPECULATIVE AND SUBJECT TO
+MANY RISKS, INCLUDING THE QUESTION AS TO WHETHER WE CAN CONTINUE AS A GOING
+CONCERN AND OUR NEED TO RAISE OPERATING CAPITAL. SEE SECTION ENTITLED "RISK
+FACTORS" ON PAGE 4.
+
+Neither the Securities Exchange Commission nor any state securities commission
+has approved or disapproved of these securities or determined if this prospectus
+is truthful or complete. Any representation to the contrary is a criminal
+offense.
+
+
+                 The Date of This Prospectus is October 17, 2007
+ 
+                                TABLE OF CONTENTS
+
+                                                                        Page No.
+                                                                        --------
+
+SUMMARY                                                                     3
+OFFERING                                                                    3
+RISK FACTORS                                                                4
+FORWARD LOOKING STATEMENTS                                                  7
+USE OF PROCEEDS                                                             7
+DETERMINATION OF OFFERING PRICE                                             7
+DIVIDEND POLICY                                                             7
+SELLING SHAREHOLDERS                                                        7
+PLAN OF DISTRIBUTION                                                        9
+LEGAL PROCEEDINGS                                                          10
+DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS               10
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT             12
+DESCRIPTION OF SECURITIES                                                  12
+INTEREST OF NAMED EXPERTS AND COUNSEL                                      12
+DISCLOSURE OF COMMISSION POSITION OF INDEMNIFICATION FOR SECURITIES
+ ACT LIABILITIES                                                           13
+ORGANIZATION WITHIN LAST FIVE YEARS                                        13
+DESCRIPTION OF OUR BUSINESS                                                13
+  Glossary                                                                 13
+  General Information                                                      14
+  Competition                                                              20
+  Compliance with Government Regulation                                    20
+  Patents and Trademarks                                                   21
+  Need for Any government Approval of Principal Products                   21
+  Research and Development Activities                                      21
+  Employees and Employment Agreements                                      21
+  Reports to Security Holders                                              21
+PLAN OF OPERATION                                                          21
+DESCRIPTION OF PROPERTY                                                    28
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS                             28
+MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS                   29
+EXECUTIVE COMPENSATION                                                     30
+FINANCIAL STATEMENTS                                                       31
+CHANGES IN & DISAGREEMENTS WITH ACCOUNTANTS                                31
+
+                                       2
+ 
+                                     SUMMARY
+
+You should read the following summary together with the more detailed business
+information and the financial statements and related notes that appear elsewhere
+in this registration statement. In this document, unless the context otherwise
+denotes, references to "we", "us", "our", "Madrona" and "Madrona Ventures" are
+to Madrona Ventures Inc.
+
+Madrona Ventures Inc. was incorporated in Nevada on June 21, 2005 to engage in
+the acquisition, exploration and development of natural resource properties. We
+are an exploration stage company with no revenues and limited operating history.
+The principal executive offices are located at 102-5212 48th Street, Red Deer,
+Alberta, Canada T4N 7C3. The telephone number is (403)770-8095.
+
+We received our initial funding of $5,000 through the sale of common stock to
+our directors in February, 2006 (5,000,000 shares at $0.001) and to investors
+from the period of March, 2006 through May, 2006. In March 2006 we offered and
+sold 1,300,000 common stock shares at $0.01 per share to 16 non-affiliated
+private investors for proceeds of $13,000. In April 2006 we offered and sold
+75,000 common stock shares at $0.10 per share to 15 non-affiliated private
+investors for proceeds of $7,500. In May 2006 we offered and sold 150,000 common
+stock shares at $0.20 per share to 3 non-affiliated private investors for
+proceeds of $30,000.
+
+From inception until the date of this filing we have had limited operating
+activities. Our audited financial statements for the period ended October 31,
+2006 report no revenues and a net loss of $40,488. Our independent auditors have
+issued an audit opinion for Madrona which includes a statement expressing
+substantial doubt as to our ability to continue as a going concern.
+
+Our mineral claim has been staked and we hired a professional geologist to
+prepare a geological report. We have not yet commenced any exploration
+activities on the claim. Our property, known as the Telluric Gold Property may
+not contain any reserves and funds that we spend on exploration will be lost.
+Even if we complete our current exploration program and are successful in
+identifying a mineral deposit we will be required to expend substantial funds to
+bring our claim to production.
+
+                                    OFFERING
+
+Securities Being Offered      Up to 1,525,000 shares of common stock. The
+                              securities being offered are those of the existing
+                              shareholders only.
+
+Price per share               $0.25 as determined by the selling shareholders.
+                              The price of $0.25 per share is a fixed price
+                              until the securities are listed on the OTC
+                              Bulletin Board or other national exchange, and
+                              thereafter at prevailing market prices or
+                              privately negotiated prices.
+
+Securities Issued
+And Outstanding               6,525,000 shares of common stock were issued and
+                              outstanding as of the date of this prospectus.
+
+Use of Proceeds               We will not receive any proceeds from the sale of
+                              the common stock by the selling shareholders.
+
+Plan of Distribution          We are unaware of the nature and timing of any
+                              future sales of our common stock by existing
+                              security shareholders.
+
+                                       3
+ 
+                                  RISK FACTORS
+
+An investment in these securities involves an exceptionally high degree of risk
+and is extremely speculative in nature. Following are what we believe to be all
+the material risks involved if you decide to purchase shares in this offering.
+
+RISKS ASSOCIATED WITH OUR COMPANY:
+
+WE ARE AN EXPLORATION STAGE COMPANY BUT HAVE NOT YET COMMENCED EXPLORATION
+ACTIVITIES ON OUR CLAIM. WE EXPECT TO INCUR OPERATING LOSSES FOR THE FORESEEABLE
+FUTURE.
+
+     We have not yet commenced exploration on the Telluric Gold Property.
+     Accordingly, we have no way to evaluate the likelihood that our business
+     will be successful. We were incorporated on June 21, 2005 and to date have
+     been involved primarily in organizational activities and the acquisition of
+     the mineral claim. We have not earned any revenues as of the date of this
+     registration statement. The likelihood of success must be considered in
+     light of the problems, expenses, difficulties, complications and delays
+     encountered in connection with the exploration of the mineral properties
+     that we plan to undertake. These potential problems include, but are not
+     limited to, unanticipated problems relating to exploration, and additional
+     costs and expenses that may exceed current estimates. Prior to completion
+     of our exploration stage, we anticipate that we will incur increased
+     operating expenses without realizing any revenues. We expect to incur
+     significant losses into the foreseeable future. We recognize that if we are
+     unable to generate significant revenues from development and production of
+     minerals from the claim, we will not be able to earn profits or continue
+     operations. There is no history upon which to base any assumption as to the
+     likelihood that we will prove successful, and it is doubtful that we will
+     generate any operating revenues or ever achieve profitable operations. If
+     we are unsuccessful in addressing these risks, our business will most
+     likely fail.
+
+OUR INDEPENDENT AUDITOR HAS ISSUED AN AUDIT OPINION FOR MADRONA VENTURES INC.
+WHICH INCLUDES A STATEMENT DESCRIBING OUR GOING CONCERN STATUS. OUR FINANCIAL
+STATUS CREATES A DOUBT WHETHER WE WILL CONTINUE AS A GOING CONCERN.
+
+     As described in Note 1 of our accompanying financial statements, our lack
+     of operations and any guaranteed sources of future capital create
+     substantial doubt as to our ability to continue as a going concern. If our
+     business plan does not work, we could remain as a start-up company with
+     limited operations and revenues.
+
+BECAUSE MANAGEMENT HAS NO EXPERIENCE IN MINERAL EXPLORATION, OUR BUSINESS HAS A
+HIGHER RISK OF FAILURE.
+
+     Our management has no professional training or technical credentials in the
+     field of geology. As a result, they may not be able to recognize and take
+     advantage of potential acquisition and exploration opportunities in the
+     sector without the aid of qualified geological consultants. Their decisions
+     and choices may not take into account standard engineering or managerial
+     approaches mineral exploration companies commonly use. Consequently our
+     operations, earnings and ultimate financial success may suffer irreparable
+     harm as a result.
+
+THERE IS THE RISK THAT OUR PROPERTY DOES NOT CONTAIN ANY KNOWN BODIES OF ORE
+RESULTING IN ANY FUNDS SPENT ON EXPLORATION BEING LOST.
+
+     There is the likelihood of our mineral claim containing little or no
+     economic mineralization or reserves of minerals. We have a geological
+     report and the claim has been staked per British Columbia regulations.
+
+                                       4
+ 
+     However; there is the possibility that our claim does not contain any
+     reserves, resulting in any funds spent on exploration being lost.
+
+BECAUSE WE HAVE NOT SURVEYED THE CLAIM, WE MAY DISCOVER MINERALIZATION ON THE
+CLAIM THAT IS NOT WITHIN OUR CLAIM BOUNDARIES.
+
+     While we have conducted a mineral claim title search, this should not be
+     construed as a guarantee of claim boundaries. Until the claim is surveyed,
+     the precise location of the boundaries of the claim may be in doubt. If we
+     discover mineralization that is close to the claim boundaries, it is
+     possible that some or all of the mineralization may occur outside the
+     boundaries. In such a case we would not have the right to extract those
+     minerals.
+
+IF WE DISCOVER COMMERCIAL RESERVES OF PRECIOUS METALS ON OUR MINERAL PROPERTY,
+WE CAN PROVIDE NO ASSURANCE THAT WE WILL BE ABLE TO SUCCESSFULLY ADVANCE THE
+MINERAL CLAIMS INTO COMMERCIAL PRODUCTION.
+
+     If our exploration program is successful in establishing ore of commercial
+     tonnage and grade, we will require additional funds in order to advance the
+     claim into commercial production. Obtaining additional financing would be
+     subject to a number of factors, including the market price for the
+     minerals, investor acceptance of our claims and general market conditions.
+     These factors may make the timing, amount, terms or conditions of
+     additional financing unavailable to us. The most likely source of future
+     funds is through the sale of equity capital. Any sale of share capital will
+     result in dilution to existing shareholders. We may be unable to obtain any
+     such funds, or to obtain such funds on terms that we consider economically
+     feasible and you may lose any investment you make in this offering.
+
+IF ACCESS TO OUR MINERAL CLAIM IS RESTRICTED BY INCLEMENT WEATHER, WE MAY BE
+DELAYED IN OUR EXPLORATION AND ANY FUTURE MINING EFFORTS.
+
+     It is possible that snow or rain could cause the mining roads providing
+     access to our claim to become impassable. The area where the claim is
+     located experiences significant precipitation, most of it snow in the
+     wintertime. Winters generally last from November through mid-March. If the
+     roads are impassable we would be delayed in our exploration timetable.
+
+GOVERNMENT REGULATION OR OTHER LEGAL UNCERTAINTIES MAY INCREASE COSTS AND OUR
+BUSINESS WILL BE NEGATIVELY AFFECTED.
+
+     There are several governmental regulations that materially restrict mineral
+     claim exploration and development. Under Canadian mining law, engaging in
+     certain types of exploration requires work permits, the posting of bonds,
+     and the performance of remediation work for any physical disturbance to the
+     land. While these current laws will not affect our initial exploration
+     phase, if we identify exploitable minerals and proceed to excavation
+     operations on the claim, we will incur regulatory compliance costs based
+     upon the size and scope of our operations. In addition, new regulations
+     could increase our costs of doing business and prevent us from exploring
+     for and the exploitation of ore deposits. In addition to new laws and
+     regulations being adopted, existing laws may be applied to mining that have
+     not as yet been applied. These new laws may increase our cost of doing
+     business with the result that our financial condition and operating results
+     may be harmed.
+
+                                       5
+ 
+BECAUSE OUR CURRENT OFFICERS AND DIRECTORS HAVE OTHER BUSINESS INTERESTS, THEY
+MAY NOT BE ABLE OR WILLING TO DEVOTE A SUFFICIENT AMOUNT OF TIME TO OUR BUSINESS
+OPERATIONS, CAUSING OUR BUSINESS TO FAIL.
+
+     Mssrs. Baglole and Shaw, our officers and directors, currently devote
+     approximately 5-7 hours per week providing management services to us. While
+     they presently possess adequate time to attend to our interests, it is
+     possible that the demands on them from their other obligations could
+     increase, with the result that they would no longer be able to devote
+     sufficient time to the management of our business. This could negatively
+     impact our business development.
+
+THERE IS NO CURRENT PUBLIC MARKET FOR OUR SECURITIES. WE HAVE NO CURRENT PUBLIC
+OFFERING AND NO PROPOSED PUBLIC OFFERING OF OUR EQUITY. AS OUR STOCK IS NOT
+PUBLICLY TRADED, INVESTORS SHOULD BE AWARE THEY PROBABLY WILL BE UNABLE TO SELL
+THEIR SHARES AND THEIR INVESTMENT IN OUR SECURITIES IS NOT LIQUID.
+
+     We are not registered on any public stock exchange; however, we plan to
+     contact a market maker to obtain a listing for trading on the OTC
+     Electronic Bulletin Board. We do not know when we will be able to contact
+     the market maker, and there is no guarantee of trading volume or trading
+     price levels sufficient for investors to sell their stock, recover their
+     investment in our stock, or profit from the sale of their stock.
+
+THE TRADING IN OUR SHARES WILL BE REGULATED BY SECURITIES AND EXCHANGE
+COMMISSION RULE 15G-9 WHICH ESTABLISHED THE DEFINITION OF A "PENNY STOCK."
+
+     Our shares are defined as a penny stock under the Securities and Exchange
+     Act of 1934, and rules of the Commission. The Exchange Act and such penny
+     stock rules generally impose additional sales practice and disclosure
+     requirements on broker-dealers who sell our securities to persons other
+     than certain accredited investors who are, generally, institutions with
+     assets in excess of $5,000,000 or individuals with net worth in excess of
+     $1,000,000 or annual income exceeding $200,000 ($300,000 jointly with
+     spouse), or in transactions not recommended by the broker-dealer. For
+     transactions covered by the penny stock rules, a broker-dealer must make a
+     suitability determination for each purchaser and receive the purchaser's
+     written agreement prior to the sale. In addition, the broker-dealer must
+     make certain mandated disclosures in penny stock transactions, including
+     the actual sale or purchase price and actual bid and offer quotations, the
+     compensation to be received by the broker-dealer and certain associated
+     persons, and deliver certain disclosures required by the Commission.
+     Consequently, the penny stock rules may make it difficult for our
+     shareholders to resell any shares, if at all.
+
+WE WILL INCUR ONGOING COSTS AND EXPENSES FOR SEC REPORTING AND COMPLIANCE.
+WITHOUT REVENUE WE MAY NOT BE ABLE TO REMAIN IN COMPLIANCE, MAKING IT DIFFICULT
+FOR INVESTORS TO SELL THEIR SHARES, IF AT ALL.
+
+     We plan to contact a market maker immediately following the effectiveness
+     of this registration statement and apply to have the shares quoted on the
+     OTC Electronic Bulletin Board. To be eligible for quotation, issuers must
+     remain current in their filings with the SEC. In order for us to remain in
+     compliance we will require cash to cover the cost of these filings, which
+     could comprise a substantial portion of our available cash resources. If we
+     are unable to remain in compliance it may be difficult for our shareholders
+     to resell any shares, if at all.
+
+                                       6
+ 
+                           FORWARD LOOKING STATEMENTS
+
+This prospectus contains forward-looking statements that involve risk and
+uncertainties. We use words such as "anticipate", "believe", "plan", "expect",
+"future", "intend", and similar expressions to identify such forward-looking
+statements. Investors should be aware that all forward-looking statements
+contained within this filing are good faith estimates of management as of the
+date of this filing. Our actual results could differ materially from those
+anticipated in these forward-looking statements for many reasons, including the
+risks faced by us as described in the "Risk Factors" section and elsewhere in
+this prospectus.
+
+                                 USE OF PROCEEDS
+
+We will not receive any proceeds from the sale of the common stock offered
+through this prospectus by the selling shareholders.
+
+                         DETERMINATION OF OFFERING PRICE
+
+The shareholders set the offering price of the common stock at $0.25 per share.
+The shareholders set the offering price of the common stock at $0.25 per share.
+The shareholders arbitrarily set the offering price based upon their collective
+judgment as to a price per share they were willing to accept. The price of $0.25
+per share is a fixed price until the securities are listed on the OTC Bulletin
+Board or other national exchange, and thereafter at prevailing market prices or
+privately negotiated prices.
+
+                                 DIVIDEND POLICY
+
+We have never declared or paid any cash dividends on our common stock. We
+currently intend to retain future earnings, if any, to finance the expansion of
+the business. As a result, we do not anticipate paying any cash dividends in the
+foreseeable future.
+
+                              SELLING SHAREHOLDERS
+
+The selling shareholders named in this prospectus are offering all of the
+1,525,000 shares of common stock offered. The shares include the following:
+
+     1.   6,525,000 shares of our common stock that the selling shareholders
+          acquired from us in an offering that was exempt from registration
+          pursuant to Section 4(2) as amended of the Securities Act of 1933 and
+          completed in May, 2006.
+
+The following table provides as of the date of this registration statement,
+information regarding the beneficial ownership of our common stock held by each
+of the selling shareholders, including:
+
+     1.   The number of shares owned by each prior to this offering;
+     2.   The total number of shares that are to be offered for each;
+     3.   The total number of shares that will be owned by each upon completion
+          of the offering;
+     4.   The percentage owned by each; and
+     5.   The identity of the beneficial holder of any entity that owns the
+          shares.
+
+To the best of our knowledge, the named parties in the table that follows are
+the beneficial owners and have the sole voting and investment power over all
+shares or rights to the shares reported. In addition, the table assumes that the
+
+                                       7
+ 
+selling shareholders do not sell shares of common stock not being offered
+through this prospectus and do not purchase additional shares of common stock.
+The column reporting the percentage owned upon completion assumes that all
+shares offered are sold, and is calculated based on 6,525,000 shares outstanding
+on October 31, 2006.
+
+                             Shares         Total of        Total       Percent
+                           Owned Prior      Shares         Shares        Owned
+     Name of                To This         Offered         After        After
+Selling Shareholder         Offering        For Sale      Offering     Offering
+- -------------------         --------        --------      --------     --------
+John Andrews                 50,000          50,000           0            0
+Mike Andrews                100,000         100,000           0            0
+Claude Blais                  5,000           5,000           0            0
+Blair Brown                   5,000           5,000           0            0
+Orville Burns                 5,000           5,000           0            0
+Jen Davie                     5,000           5,000           0            0
+Shannon Devlin               50,000          50,000           0            0
+Peter Fry                   100,000         100,000           0            0
+Kathy Fuller                100,000         100,000           0            0
+D. Gibbon                    50,000          50,000           0            0
+Craig Grimes                  5,000           5,000           0            0
+David Hanson                 50,000          50,000           0            0
+Wally Henderson             100,000         100,000           0            0
+Martin Holmes                 5,000           5,000           0            0
+Ben Jones                    50,000          50,000           0            0
+Kevin Jones                 100,000         100,000           0            0
+Peter Keay                    5,000           5,000           0            0
+Jim Kelly                    50,000          50,000           0            0
+Bruce Kenset                  5,000           5,000           0            0
+Sean Killick                100,000         100,000           0            0
+Terry Matthews               50,000          50,000           0            0
+Cathy McDonald                5,000           5,000           0            0
+Len McNabb                    5,000           5,000           0            0
+Norman Mitchell               5,000           5,000           0            0
+Dave Moran                  100,000         100,000           0            0
+Kristen Nelson                5,000           5,000           0            0
+Jessica Pittman              50,000          50,000           0            0
+Joe Singh                   100,000         100,000           0            0
+Derk Stevens                  5,000           5,000           0            0
+Mark Tanner                  50,000          50,000           0            0
+Andy Taylor                   5,000           5,000           0            0
+Cris Thomos                 100,000         100,000           0            0
+Leslie Welton                 5,000           5,000           0            0
+Glenn Wong                  100,000         100,000           0            0
+
+To our knowledge, none of the selling shareholders:
+
+     1.   Has had a material relationship with Madrona other than as a
+          shareholder as noted above at any time within the past three years;
+
+                                       8
+ 
+     2.   Has ever been an officer or director of Madrona; or
+     3.   Are broker-dealers or affiliated with broker-dealers.
+
+                              PLAN OF DISTRIBUTION
+
+The selling shareholders have not informed us of how they plan to sell their
+shares. However, they may sell some or all of their common stock in one or more
+transactions:
+
+     1.   on such public markets or exchanges as the common stock may from time
+          to time be trading;
+     2.   in privately negotiated transactions; or
+     3.   in any combination of these methods of distribution.
+
+The sales price to the public has been determined by the shareholders to be
+$0.25. The price of $0.25 per share is a fixed price until the securities are
+listed on the OTC Bulletin Board or other national exchange, and thereafter at
+prevailing market prices or privately negotiated prices.
+
+The shares may also be sold in compliance with the Securities and Exchange
+Commission's Rule 144. Under Rule 144, several provisions must be met with
+respect to the sales of control securities at any time and sales of restricted
+securities held between one and two years. The following is a summary of the
+provisions of Rule 144: (a) Rule 144 is available only if the issuer is current
+in its filings under the Securities an Exchange Act of 1934. Such filings
+include, but are not limited to, the issuer's quarterly reports and annual
+reports; (b) Rule 144 allows resale of restricted and control securities after a
+one year hold period, subjected to certain volume limitations, and re-sales by
+non-affiliates holders without limitations after two years; ( c ) The sales of
+securities made under Rule 144 during any three-month period are limited to the
+greater of: (i) 1% of the outstanding common stock of the issuer; or (ii) the
+average weekly reported trading volume in the outstanding common stock reported
+on all securities exchanges during the four calendar weeks preceding the filing
+of the required notice of the sale under Rule 144 with the SEC.
+
+The selling shareholders may also sell their shares directly through market
+makers acting in their capacity as broker-dealers. We will apply to have our
+shares of common stock registered on the OTC Bulletin Board immediately after
+the date of this prospectus. We anticipate once the shares are trading on the
+OTC Bulletin Board the selling shareholders will sell their shares directly into
+any market created. Selling shareholders will offer their shares at a fixed
+price of $0.25 per share until the common stock is trading on the OTC Bulletin
+Board at which time the prices the selling shareholders will receive will be
+determined by the market conditions. Selling shareholders may also sell in
+private transactions. We cannot predict the price at which shares may be sold or
+whether the common stock will ever trade on any market. The shares may be sold
+by the selling shareholders, as the case may be, from time to time, in one or
+more transactions. We do not intend to enter into any arrangements with any
+securities dealers concerning solicitation of offers to purchase the shares.
+
+Commissions and discounts paid in connection with the sale of the shares by the
+selling shareholders will be determined through negotiations between them and
+the broker-dealers through or to which the securities are to be sold and may
+vary, depending on the broker-dealers fee schedule, the size of the transaction
+and other factors. The separate costs of the selling shareholders will be borne
+by them. The selling shareholders will, and any broker-broker dealer or agent
+that participates with the selling shareholders in the sale of the shares by
+them may be deemed an "underwriter" within the meaning of the Securities Act,
+and any commissions or discounts received by them and any profits on the resale
+of shares purchased by them may be deemed to be underwriting commissions under
+the Securities Act. In the event any selling shareholder engages a broker-dealer
+to distribute its shares, and the broker-dealer is acting as underwriter, we
+will be required to file a post effective amendment containing the name of the
+underwriter.
+
+                                       9
+ 
+The selling shareholders must comply with the requirements of the Securities Act
+of 1933 and the Securities Exchange Act of 1934 in the offer and sale of their
+common stock. In particular, during times that the selling shareholders may be
+deemed to be engaged in a distribution of the common stock, and therefore be
+considered to be an underwriter, they must comply with applicable law.
+
+Regulation M prohibits certain market activities by persons selling securities
+in a distribution. To demonstrate their understanding of those restrictions and
+others, selling shareholders will be required, prior to the release of
+un-legended shares to themselves or any transferee, to represent as follows:
+that they have delivered a copy of this prospectus, and if they are effecting
+sales on the Electronic Bulletin Board or inter-dealer quotation system or any
+electronic network, that neither they nor any affiliates or person acting on
+their behalf, directly or indirectly, has engaged in any short sale of our
+common stock; and for a period commencing at least 5 business days before his
+first sale and ending with the date of his last sale, bid for, purchase, or
+attempt to induce any person to bid for or purchase our common stock.
+
+If we become listed for trading on the OTC Electronic Bulletin Board the trading
+in our shares will be regulated by Securities and Exchange Commission Rule 15g-9
+which established the definition of a "penny stock."
+
+The Securities and Exchange Commission Rule 15g-9 establishes the definition of
+a "penny stock", for the purposes relevant to Madrona Ventures, as any equity
+security that has a market price of less than $5.00 per share or with an
+exercise price of less than $5.00 per share, subject to certain exceptions. For
+any transaction involving a penny stock, unless exempt, the rules require: (a)
+that a broker or dealer approve a person's account for transactions in penny
+stocks; and (b) the broker or dealer receive from the investor a written
+agreement to the transaction, setting forth the identity and quantity of the
+penny stock to be purchased. In order to approve a person's account for
+transactions in penny stocks, the broker or dealer must (a) obtain financial
+information and investment experience objectives of the person; and (b) make a
+reasonable determination that the transactions in penny stocks are suitable for
+that person and the person has sufficient knowledge and experience in financial
+matters to be capable of evaluating the risks of transactions in penny stocks.
+The broker or dealer must also deliver, prior to any transaction in a penny
+stock, a disclosure schedule prepared by the broker/dealer relating to the penny
+stock market, which, in highlight form, (a) sets forth the basis on which the
+broker or dealer made the suitability determination; and (b) that the broker or
+dealer received a signed, written agreement from the investor prior to the
+transaction. Before you trade a penny stock your broker is required to tell you
+the offer and the bid on the stock, and the compensation the salesperson and the
+firm receive for the trade. The firm must also mail a monthly statement showing
+the market value of each penny stock held in your account.
+
+We can provide no assurance that all or any of the common stock offered will be
+sold by the selling shareholders.
+
+We are bearing all costs relating to the registration of the common stock. Any
+commissions or other fees payable to brokers or dealers in connection with any
+sale of the common stock, however, will be borne by the selling shareholders or
+other party selling the common stock. We will use our best efforts to update the
+registration statement and maintain its effectiveness for one year.
+
+                                LEGAL PROCEEDINGS
+
+We are not currently involved in any legal proceedings and we are not aware of
+any pending or potential legal actions.
+
+          DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS
+
+The officers and directors of Madrona Ventures Inc., whose one year terms will
+expire on 07/01/07, or at such a time as their successor(s) shall be elected and
+qualified are as follows:
+
+                                       10
+ 
+Name & Address           Age      Position    Date First Elected    Term Expires
+- --------------           ---      --------    ------------------    ------------
+Reese Baglole            27      President,        6/21/05           07/01/07
+102-5212 48th Street             Secretary,
+Red Deer, Alberta                Treasurer,
+Canada T4N 7C3                   CFO, CEO &
+                                 Director
+
+Dave Shaw                59      Director          6/21/05           07/01/07
+332-118 Wyse Road
+Dartmouth, Nova Scotia
+Canada B3A 1N7
+
+The persons named above are promoters of Madrona Ventures Inc., as that term is
+defined in the rules and regulations promulgated under the Securities and
+Exchange Act of 1933.
+
+Directors are elected to serve until the next annual meeting of stockholders and
+until their successors have been elected and qualified. Officers are appointed
+to serve until the meeting of the board of directors following the next annual
+meeting of stockholders and until their successors have been elected and
+qualified.
+
+Our directors currently devote as much time as the board of directors deems
+necessary to manage the affairs of the company.
+
+Neither of our officers and directors has been the subject of any order,
+judgment, or decree of any court of competent jurisdiction, or any regulatory
+agency permanently or temporarily enjoining, barring, suspending or otherwise
+limiting them from acting as an investment advisor, underwriter, broker or
+dealer in the securities industry, or as an affiliated person, director or
+employee of an investment company, bank, savings and loan association, or
+insurance company or from engaging in or continuing any conduct or practice in
+connection with any such activity or in connection with the purchase or sale of
+any securities.
+
+Neither has been convicted in any criminal proceeding (excluding traffic
+violations) and are not the subject of a criminal proceeding which is currently
+pending.
+
+RESUMES
+
+REESE BAGLOLE has been President, CEO, Treasurer, CFO, Secretary and Director of
+the Company since inception.
+
+From 2001 to the present he has been employed by Esco, Ltd. as a welder. Esco,
+Ltd. is a offshore drilling rig company.
+
+1996 Graduate of Hugh Sutherland High School in Carstair, Alberta, Canada.
+
+DAVE SHAW has been Director of the Company since inception.
+
+From 2003 to the present he has been retired. The 10 years prior to retirement
+Mr. Shaw was employed as a welder and pipe fitter for Petro Canada, a petroleum
+supply company.
+
+                                       11
+ 
+         SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+The following table sets forth information on the ownership of Madrona Ventures
+Inc. voting securities by officers, directors and major shareholders as well as
+those who own beneficially more than five percent of our common stock as of the
+date of this prospectus:
+
+    Name of                         No. of            Percentage
+Beneficial Owner(1)                 Shares           of Ownership:
+- -------------------                 ------           -------------
+Reese Baglole                      2,500,000              25%
+
+Dave Shaw                          2,500,000              25%
+
+Officers and Directors
+ as a Group                        5,000,000              50%
+
+- ----------
+(1)  The persons named may be deemed to be a "parent" and "promoter" of the
+     Company, within the meaning of such terms under the Securities Act of 1933,
+     as amended.
+
+                            DESCRIPTION OF SECURITIES
+
+COMMON STOCK
+
+The authorized capital stock of the Company consists of 75,000,000 shares of
+Common Stock, par value $.001. The holders of common stock currently (i) have
+equal ratable rights to dividends from funds legally available therefore, when,
+as and if declared by the Board of Directors of the Company; (ii) are entitled
+to share ratably in all of the assets of the Company available for distribution
+to holders of common stock upon liquidation, dissolution or winding up of the
+affairs of the Company; (iii) do not have preemptive, subscription or conversion
+rights and there are no redemption or sinking fund provisions or rights
+applicable thereto; and (iv) are entitled to one non-cumulative vote per share
+on all matters on which stockholders may vote. All shares of common stock now
+outstanding are fully paid for and non-assessable and all shares of common stock
+which are the subject of this Offering, when issued, will be fully paid for and
+non-assessable. Please refer to the Company's Articles of Incorporation, By-Laws
+and the applicable statutes of the State of Nevada for a more complete
+description of the rights and liabilities of holders of the Company's
+securities.
+
+NON-CUMULATIVE VOTING
+
+The holders of shares of our common stock do not have cumulative voting rights,
+which means that the holders of more than 50% of such outstanding shares, voting
+for the election of directors, can elect all of the directors to be elected, if
+they so choose, and, in such event, the holders of the remaining shares will not
+be able to elect any of the company's directors. After this Offering is
+completed, the present stockholder will own 50% of the outstanding shares. (See
+"Principal Stockholders".)
+
+                      INTEREST OF NAMED EXPERTS AND COUNSEL
+
+None of the below described experts or counsel have been hired on a contingent
+basis and none of them will receive a direct or indirect interest in the
+company.
+
+Our financial statements for the period from inception to the year ended July
+31, 2006 and the 3 months ended October 31, 2006, included in this prospectus,
+have been audited by Dale Matheson Carr-Hilton LaBonte LLP, "DMCL" Chartered
+Accountants, Suite 1500 - 1140 West Pender Street, Vancouver, BC Canada V6E4G1.
+We include the financial statements in reliance on their reports, given upon
+their authority as experts in accounting and auditing.
+
+                                       12
+ 
+The Law  Office  of  Daniel  C.  Masters,  4490  Philbrook  Square,  San  Diego,
+California  92130 has passed upon the validity of the shares  being  offered and
+certain  other legal  matters and is  representing  us in  connection  with this
+offering.
+
+Andre M. Pauwels, P. Geo., 4900 Mariposa Court, Richmond, B.C. Canada V7C 2J9,
+has provided us with the geology report contained herein.
+
+              DISCLOSURE OF COMMISSION POSITION OF INDEMNIFICATION
+                         FOR SECURITIES ACT LIABILITIES
+
+Insofar as indemnification for liabilities arising under the Securities Act of
+1933 (the "Act") may be permitted to directors, officers and controlling persons
+of the small business issuer pursuant to the By-Laws of the company, or
+otherwise, we have been advised that in the opinion of the Securities and
+Exchange Commission such indemnification is against public policy as expressed
+in the Act, and is, therefore unenforceable.
+
+In the event that a claim for indemnification against such liabilities (other
+than the payment of expenses incurred or paid by a director, officer or
+controlling person in the successful defense of any action, suit or proceeding)
+is asserted by such director, officer, or other control person in connection
+with the securities being registered, we will, unless in the opinion of our
+legal counsel the matter has been settled by controlling precedent, submit to a
+court of appropriate jurisdiction the question whether such indemnification by
+it, is against public policy as expressed in the Securities Act and will be
+governed by the final adjudication of such issue.
+
+                     ORGANIZATION WITHIN THE LAST FIVE YEARS
+
+Madrona Ventures Inc. was incorporated in Nevada on June 21, 2005 to engage in
+the business of acquisition, exploration and development of natural resource
+properties. At that time Reese Baglole and Dave Shaw were named officers and
+directors of the company and the Board of Directors voted to seek capital and
+begin development of our business plan. We received our initial funding of
+$5,000 through the sale of common stock to Mr. Baglole and Mr. Shaw who each
+purchased 2,500,000 shares of our Common Stock at $0.001 per share in February
+2006.
+
+                             DESCRIPTION OF BUSINESS
+
+We are an exploration stage company with no revenues and a limited operating
+history. Our independent auditor has issued an audit opinion which includes a
+statement expressing substantial doubt as to our ability to continue as a going
+concern. The source of information contained in this discussion is our geology
+report that has been included as Exhibit 99.1 to this prospectus.
+
+There is the likelihood of our mineral claim containing little or no economic
+mineralization. The Telluric Gold Property, consisting of 2 Mineral Title
+Submissions containing 40 cells totaling 1,099 acres, is the only property
+currently in the company's portfolio. If our claim does not contain any reserves
+all funds that we spend on exploration will be lost. Even if we complete our
+current exploration program and are successful in identifying a mineral deposit
+we will be required to expend substantial funds on further drilling and
+engineering studies before we will know if we have a commercially viable mineral
+deposit or reserve.
+
+                                    GLOSSARY
+
+Andesitic to basaltic composition -    a range of rock descriptions using the
+                                       chemical make-up or mineral norms of the
+                                       same.
+
+Formation -                            the fundamental unit of similar rock
+                                       assemblages used in stratigraphy.
+
+Intermontane belt -                    between mountains (ranges), a usually
+                                       longer than wide depression occurring
+                                       between enclosing mountain ranges that
+                                       supply erosional material to infill the
+                                       basin.
+
+                                       13
+ 
+Mineral tenure of British Columbia -   the rights, privileges and obligations
+                                       specified, by the acquisition of mineral
+                                       tenure, in the Mineral Tenure Act of the
+                                       Province. Specifics of what a mineral
+                                       tenure holder can, cannot and must do to
+                                       hold mineral title in British Columbia,
+                                       Canada. Since B.C. is a Provincial
+                                       jurisdiction mineral tenure lies with the
+                                       province unless federal jurisdiction is
+                                       encroached, i.e. fisheries or if the
+                                       mineral activity takes place in a federal
+                                       territory, i.e. Nunavit. Also a federally
+                                       chartered company may have to use
+                                       Canadian (federal) rules and regulations.
+
+Upper Triassic age Nicola Group -      upper Triassic refers to rock units of
+                                       similar age within the range of 213 -248
+                                       million year, before the present. Age
+                                       descriptions often use the adjectives,
+                                       lower-middle-upper to further define the
+                                       position of age. To constitute a group it
+                                       must be composed of at least two
+                                       formations.
+
+GENERAL INFORMATION
+
+The one property in our portfolio is the Telluric Gold Property, consisting of
+1,099 acres, included within 40 cells. The claims were staked using the British
+Columbia Mineral Titles Online computer Internet system and assigned Tenure No.
+518818 and 518828 and are good to August 8, 2008.
+
+The mineral claim property is located in South Central British Columbia, Canada,
+60 km north-northwest of the City of Kamloops on NTS Sheet 92P (Latitude: 51(0)
+39' 12"N and Longitude: 122(0) 33' 10" W). The property can be reached by road
+from Kamloops by following paved Highway 1 west to 8 km west of the Community of
+Savona and then north for 48 km along the Deadman River road to the Vidette Lake
+Resort. One km past the Vidette Lake Resort, a ranch road branching north, gives
+access to the B.C. Forest Service 3300 logging road. The property itself is
+along the 3800 road, a southerly branch of the 3300 road. Total driving distance
+from the Vidette Lake resort is 17.5 km. The nearest community with some basic
+services is Savona, a town situated along the Trans-Canada Highway. The city of
+Kamloops offers much of the necessary infrastructure required to base and
+carry-out an exploration program (accommodations, communications, equipment and
+supplies). Kamloops, B.C. is highway accessible from Vancouver, B.C. in a few
+hours by traveling over the Coquihalla Highway. The property is situated on the
+Fraser plateau, an area with gentle relief, but incised by the Deadman River.
+Elevations on the property vary from 1180 to 1380 m above sea level. Vegetation
+consists mainly of lodge pole pine and douglas fir. The climate is characterised
+by hot and dry summers and cold but wetter winters. Most precipitation falls in
+the form of snow during the wintertime. Snow cover prevails from mid November
+until mid April.
+
+The claim has had no known mineral exploration. We have not carried out any
+exploration work on the claim and have incurred no exploration costs. The future
+cost of exploration work on the property is disclosed in detail in the Plan of
+Operation section of this prospectus.
+
+There is not a plant or any equipment currently located on the property.
+
+It is expected that the initial exploration phase will be supported by
+generators. Water required for exploration and development of the claim is
+available from several creeks and fresh water lakes located in the area.
+
+It is concluded by our geologist that the claims are prospective for gold in
+quartz veins. It is proposed to explore the area with geochemical methods. It is
+recommended to do detailed and systematic bark sampling in the area.
+Biogeochemical sampling has some potential to negate the effects of the glacial
+cover especially if the cover does not exceed more than a few meters.
+Specifically it is recommended to:
+
+     1.   Establish a grid over a 1000 by 500 m area and centred on the Telluric
+          Shaft. Lines should be oriented N25E across the strike of the known
+          Telluric vein, extend 250m to the NE and 250m to the southwest. Trees
+          are to be sampled at 25 m intervals west of the shaft, where
+          overburden prevails and at 50 m intervals east of the shaft where the
+          shear zone/vein is intermittently exposed over 150 m of strike.
+
+                                       14
+ 
+     2.   Establish a grid over a 500 by 500m area around the Moon showing.
+          Lines to be oriented north-south and spaced 100 meters apart. Trees to
+          be sampled at 50 m intervals along lines.
+     3.   If positive results are found from the bark sampling, a program of
+          trenching with a backhoe of all areas with high gold in bark is
+          recommended
+
+The cost of the proposed program is $6,952 (USD) for the initial phase of
+exploration work, $5,417 for the 2nd phase and $16,996 for the 3rd phase. We
+plan to commence Phase 1 of the exploration program in the spring of 2007.
+
+The discussions contained herein are management's estimates based on information
+provided by the professional geologist who prepared the geology report for the
+project. Because we have not commenced our exploration program we cannot provide
+a more detailed discussion of our plans if we find a viable store of minerals on
+our property, as there is no guarantee that exploitable mineralization will be
+found, the quantity or type of minerals if they are found and the extraction
+process that will be required.
+
+ACQUISITION OF THE MINERAL CLAIM
+
+The Telluric Gold Property is assigned Tenure Numbers 518818 and 518828 and is
+recorded in the name Andre Pauwels, the professional geologist. The claim was
+staked by Mr. Pauwels on behalf of J. Lunshof on September 6, 2005. On March 15,
+2006 Andre Pauwels, through a bill of sale, transferred his 100 % interest in
+the claims to J. Lunshof. On May 1, 2006, J. Lunshof in turn sold a 100%
+interest in the mineral claim to MADRONA VENTURES INC. All of the area of the
+mineral claims is unencumbered Crown Land. The claim is in good standing to
+August 8, 2008.
+
+REQUIREMENTS OR CONDITIONS FOR RETENTION OF TITLE
+
+Title to the property has already been granted to the company. The claim was
+staked using the British Columbia Mineral Titles Online computer Internet
+system. All claims staked in British Columbia require $0.40 per hectare worth of
+assessment work to be undertaken in year 1 through 3, followed by $0.80 per
+hectare per year thereafter. In order to retain title to the property
+exploration work costs must be recorded and filed with the British Columbia
+Department of Energy Mines and Petroleum Resources ("BCDM"). The BCDM charges a
+filing fee, equal to 10% of the value of the work recorded, to record the work.
+
+LOCATION, ACCESS, CLIMATE, LOCAL RESOURCES & INFRASTRUCTURE
+
+The property is situated in South Central British Columbia; 60 km
+north-northwest of the City of Williams Lake. The property can be reached by
+road from Kamloops by following paved Highway 1 west to 8 km west of the
+Community of Savona and then north for 48 km along the Deadman River road to the
+Vidette Lake Resort. One km past the Vidette Lake Resort, a ranch road branching
+north, gives access to the B.C. Forest Service 3300 logging road. The property
+itself is along the 3800 road, a southerly branch of the 3300 road. Total
+driving distance from the Vidette Lake resort is 17.5 km.
+
+The nearest community with some basic services is Savona, a town situated along
+the Trans-Canada Highway. The City of Kamloops is a regional population centre
+with many services and amenities for industrial, educational and leisure
+activities.
+
+                                       15
+ 
+                    [MAP SHOWING THE TELLURIC GOLD LOCATION]
+
+
+
+
+
+
+
+
+The property is situated on the Fraser plateau, an area with gentle relief, but
+incised by the Deadman River. Elevations on the property vary from 1180 to 1380
+m above sea level. Vegetation consists mainly of lodge pole pine and Douglas
+fir. The climate is characterised by hot and dry summers and cold but wetter
+winters. Most precipitation falls in the form of snow during the wintertime.
+Snow cover prevails from mid November until mid April.
+
+                                       16
+ 
+              [MAP SHOWING THE TELLURIC GOLD PROJECT ACCESS ROADS]
+
+
+
+
+
+
+
+
+HISTORY
+
+The general area, as most of British Columbia, is covered by regional stream
+sediment surveys, systematic wide spaced aeromagnetic coverage and regional
+geological mapping. These data were generated by the Geological Survey of Canada
+and/or the BC Geological survey. From Historic records two gold showings are
+known on the property: Telluric and Moon. The Telluric gold showing was
+discovered in the early thirties and was described in some detail by a B.C.
+government agent in 1936. Work at that time, consisting of a 15 m deep shaft and
+some drifting along a shearrzone with goldbearing quartz veins, was done by the
+same company that was mining at the Vidette Lake gold mine located 15 km to the
+west of Telluric. Production at Telluric, if any, can only have been very small
+considering the small volume of waste piles. Work on the property apparently
+ceased when the Vidette Gold mine closed in 1930's
+
+                                       17
+ 
+In 1987-89 the Telluric property was owned by M. Dickens and exploration work
+consisted of prospecting and a small VLF-EM and ground magnetic survey.
+Prospecting indicated that the area to the east of the shaft has some outcrop of
+mafic volcanic with indications of the vein/shear zone in old trenches. However
+no outcrop was found along the possible western extension of the vein/shearzone.
+The VLF/magnetic survey was centered on the shaft but no conductivity or
+magnetic signature was found to be associated with the shear zone.
+
+Very little documentation is available on the Moon gold showing, located 2km
+south of the Telluric showing. The only report is a mention in 1936 of a small
+sample of quartz from a blast pit that assayed 0.02 oz/t of gold.
+
+GEOLOGICAL SETTING
+
+Regional and Local Geology
+
+The main geological information for the area is mapping on a 1/250,000 scale by
+the Geological Survey of Canada. These geological data are reproduced, in
+slightly modified form, on the BC Geological survey's website:
+(http://www.em.gov.bc.ca/Mining/Geolsurv/MapPlace/).
+
+The property is situated in the intermontane morpho-geological belt of South
+Central British Columbia. In general this belt, that runs parallel to the
+general north-westerly trend of the Cordillera through the whole length of
+British Columbia, is composed of volcanic and sedimentary rock ranging in age
+from Devonian to Recent and has early Mesozoic to early Tertiary granitic
+intrusions. Locally the oldest rocks are basaltic and andesitic rocks of the
+Upper Triassic Nicola Group intruded by granodiorites of Triassic or Jurassic
+age and belonging to the Thuya Batholith. These Mesozoic rocks occur as
+erosional windows in a regionally persistent cover of Miocene to Pliocene
+continental Basalt flows and coarse continental sediments of the Chilcotin
+Group. The area has been subject to glaciation and glacial till mantles most of
+the older rock formations.
+
+No detailed geological work has been done in the area apart from some
+prospecting in the immediate vicinity of the Telluric gold showing (Dickens
+1987) and the description, dating from 1936, of a short drift and some test pits
+on the Telluric showing. At Telluric gold is found in a narrow quartz veins that
+occur within a 1 m wide shear zone in mafic volcanic rock that are attributed to
+the Upper Triassic Nicola Group. The workings consist of a 15 m deep shaft that
+gives access to a 7 m crosscut and a 40.2 meter long drift developed along the
+shear zone and vein. The shear zone and vein are reported to strike 65 to 70
+degrees northeast and dip steeply to the northeast. The best value reported
+underground in 1936 in quartz was 0.3 oz/t Au over 8 inches. Surface pits
+indicate that the shear zone appears to be continuous over 150 m to the
+east-southeast of the Telluric shaft. Assays reported in 1936 from surface pits
+were 0.2 oz/t over 18 inches and 0.1 oz/t Au over 18 inches. Small amounts of
+sphalerite, chalcopyrite and tretrahedrite were also reported.
+
+The area of the Moon showing also appears to be underlain by basic volcanic
+rocks and is generally lacking in outcrop.
+
+                                       18
+ 
+                    [MAP SHOWING TELLURIC GOLD AREA GEOLOGY]
+
+
+
+
+
+
+
+PROPERTY MINERALIZATION
+
+The area of the claims is prospective for gold in quartz veins. Results to date
+indicate a 150 m long rather narrow shear zone with gold bearing quartz at the
+Telluric showing and a single indication of gold in quartz at the Moon showing,
+which is located 2 km south southwest of the Telluric showing. The shear and
+vein occur in metamorphic basic volcanic rocks. Past prospecting indicated that
+most of the area is covered by glacial drift. It was then noted that the area to
+the west of the Telluric showing was entirely drift covered. Limited VLF-EM and
+magnetic surveys were not found to be useful in tracing the shear zone with gold
+bearing quartz. No follow-up work has been reported on the Moon gold showing and
+no geochemical sampling has been reported on either showing. It is concluded
+that the claims are prospective for gold in quartz veins.
+
+                                       19
+ 
+COMPETITION
+
+We do not compete directly with anyone for the exploration or removal of
+minerals from our property as we hold all interest and rights to the claim.
+Readily available commodities markets exist in Canada and around the world for
+the sale of minerals. Therefore, we will likely be able to sell any minerals
+that we are able to recover.
+
+We will be subject to competition and unforeseen limited sources of supplies in
+the industry in the event spot shortages arise for supplies such as dynamite,
+and certain equipment such as bulldozers and excavators that we will need to
+conduct exploration. If we are unsuccessful in securing the products, equipment
+and services we need we may have to suspend our exploration plans until we are
+able to do so.
+
+BANKRUPTCY OR SIMILAR PROCEEDINGS
+
+There has been no bankruptcy, receivership or similar proceeding.
+
+REORGANIZATIONS, PURCHASE OR SALE OF ASSETS
+
+There have been no material reclassifications, mergers, consolidations, or
+purchase or sale of a significant amount of assets not in the ordinary course of
+business.
+
+COMPLIANCE WITH GOVERNMENT REGULATION
+
+We will be required to comply with all regulations, rules and directives of
+governmental authorities and agencies applicable to the exploration of minerals
+in Canada generally, and in British Columbia specifically.
+
+The initial steps of exploration can be carried out without permitting or
+notification to any government body as it is deemed "low-disturbance/low-impact"
+by the British Columbia Department of Energy Mines and Petroleum Resources
+(BCDM).
+
+With respect to the mechanized trenching or diamond drilling a plan of operation
+will need to be filed with the BCDM. This plan will detail the extent, location
+and amount of surface disturbance for the trenching and/or drilling. As the
+amount of trenching and drilling (initially) will be limited, the permit should
+be issued within 30 days. We will be required to obtain a refundable bond in the
+amount of $2,000 - $3,000 (depending on the anticipated amount of disturbance).
+The bond is to ensure that we reclaim or repair the disturbance caused by the
+trenching and drilling. Usually this reclaiming work entails filling in and
+smoothing the surface at trenching sites, clean up and removal of any work
+material, and seeding native grass/plants at the site of any disturbance.
+
+In the event that trees larger than 6 inches in diameter need to be cut down, a
+permit will need to be obtained from the BC Ministry of Forests. This usually
+takes less than 30 days to obtain. We will try to adjust the areas we work at
+and trench around larger trees to avoid any disturbance to larger trees. If the
+disturbance to larger trees is unavoidable then a permit to cut will be
+obtained.
+
+There are nominal costs involved in obtaining the BCDM or Forestry permits (less
+than $100.00). The bond required by the BCDM is returned (with interest) upon
+proper clean up of the site. There will be costs for the crew and equipment
+required to fill in the trenches etc., but as heavy equipment is available
+locally, and the amount of disturbance is expected to be minimal, the costs will
+be most likely be less than $2,500.
+
+All claims staked in British Columbia require $0.40 per hectare worth of
+assessment work to be undertaken in year 1 through 3, followed by $0.80 per
+hectare per year thereafter. In order to retain title to the property
+exploration work costs must be recorded and filed with the British Columbia
+Department of Energy Mines and Petroleum Resources ("BCDM"). The BCDM charges a
+filing fee, equal to 10% of the value of the work recorded, to record the work.
+
+                                       20
+ 
+PATENTS, TRADEMARKS, FRANCHISES, CONCESSIONS, ROYALTY AGREEMENTS, OR LABOR
+CONTRACTS
+
+We have no current plans for any registrations such as patents, trademarks,
+copyrights, franchises, concessions, royalty agreements or labor contracts. We
+will assess the need for any of these applications on an ongoing basis.
+
+NEED FOR GOVERNMENT APPROVAL FOR ITS PRODUCTS OR SERVICES
+
+We are not required to apply for or have any government approval for our
+products or services.
+
+RESEARCH AND DEVELOPMENT COSTS DURING THE LAST TWO YEARS
+
+We have not expended funds for research and development costs since inception.
+
+EMPLOYEES AND EMPLOYMENT AGREEMENTS
+
+Our only employees are our officers, Reese Baglole and Dave Shaw who currently
+devote as much time as the board of directors determines is necessary to manage
+the affairs of the company. There are no formal employment agreements between
+the company and our current employees.
+
+REPORTS TO SECURITIES HOLDERS
+
+We will provide an annual report that includes audited financial information to
+our shareholders. We will make our financial information equally available to
+any interested parties or investors through compliance with the disclosure rules
+of Regulation S-B for a small business issuer under the Securities Exchange Act
+of 1934. We will become subject to disclosure filing requirements once our SB-2
+registration statement becomes effective, including filing Form 10K-SB annually
+and Form 10Q-SB quarterly. In addition, we will file Form 8K and other proxy and
+information statements from time to time as required. We do not intend to
+voluntarily file the above reports in the event that our obligation to file such
+reports is suspended under the Exchange Act. The public may read and copy any
+materials that we file with the Securities and Exchange Commission, ("SEC"), at
+the SEC's Public Reference Room at 100 F Street NE, Washington, DC 20549. The
+public may obtain information on the operation of the Public Reference Room by
+calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site
+(http://www.sec.gov) that contains reports, proxy and information statements,
+and other information regarding issuers that file electronically with the SEC.
+
+                                PLAN OF OPERATION
+
+Our current cash balance is $22,459. We believe our cash balance is sufficient
+to fund our level of operations until May 2007. If we experience a shortage of
+funds prior to funding we may utilize funds from our directors, however they
+have no formal commitment, arrangement or legal obligation to advance or loan
+funds to the company. We are an exploration stage company and have generated no
+revenue to date. We have sold $55,500 in equity securities to pay for our
+minimum level of operations.
+
+Our auditor has issued a going concern opinion. This means that there is
+substantial doubt that we can continue as an on-going business for the next
+twelve months unless we obtain additional capital to pay our bills. This is
+because we have not generated revenues and no revenues are anticipated until we
+begin removing and selling minerals. There is no assurance we will ever reach
+that point.
+
+Our exploration target is to find exploitable minerals on our property. Our
+success depends on achieving that target. There is the likelihood of our mineral
+claim containing little or no economic mineralization or reserves of minerals.
+There is the possibility that our claim does not contain any reserves and funds
+that we spend on exploration will be lost. Even if we complete our current
+exploration program and are successful in identifying a mineral deposit we will
+be required to expend substantial funds to bring our claim to production. We are
+unable to assure you we will be able to raise the additional funds necessary to
+implement any future exploration or extraction program even if mineralization is
+found.
+
+                                       21
+ 
+Our plan of operation for the twelve months following the date of this
+prospectus is to complete the three phases of the exploration program on our
+claim consisting of detailed prospecting, mineralization mapping, Magnetometer,
+grid controlled surveys over the areas of interest, induced polarization survey
+over grid controlled anomalous areas of interest, hoe or bulldozer trenching,
+mapping and sampling of bedrock anomalies. In addition to the $29,365 we
+anticipate spending for Phases 1-3 of the exploration program as outlined below,
+we anticipate spending an additional $5,000 on professional fees, including fees
+payable in connection with the filing of this registration statement and
+complying with reporting obligations, and general administrative costs. Total
+expenditures over the next 12 months are therefore expected to be approximately
+$34,000. If we experience a shortage of funds prior to funding we may utilize
+funds from our directors, however they have no formal commitment, arrangement or
+legal obligation to advance or loan funds to the company.
+
+The following three phase exploration proposal and cost estimate is offered with
+the understanding that consecutive phases are contingent upon positive
+(encouraging) results being obtained from each preceding phase:
+
+     1.   Establish a grid over a 1000 by 500 m area and centred on the Telluric
+          Shaft. Lines should be oriented N25E across the strike of the known
+          Telluric vein, extend 250m to the NE and 250m to the southwest. Trees
+          are to be sampled at 25 m intervals west of the shaft, where
+          overburden prevails and at 50 m intervals east of the shaft where the
+          shear zone/vein is intermittently exposed over 150 m of strike.
+     2.   Establish a grid over a 500 by 500m area around the Moon showing.
+          Lines to be oriented north-south and spaced 100 meters apart. Trees to
+          be sampled at 50 m intervals along lines.
+     3.   If positive results are found from the bark sampling, a program of
+          trenching with a backhoe of all areas with high gold in bark is
+          recommended
+
+                                     BUDGETS
+1  SAMPLING TELLURIC                                             $         US $
+Travel                    2 man days                            600
+Bark sampling             Technician 3 days                     600
+Establishing Grid         Geologist 1 day/technician 1 day      600
+Analysis                  150 samples @ $25 each               3750
+Sample transport                                                100
+Food Lodging              5 man-days $75 per day                375
+Truck rental/gas                                                400
+Report/drafting                                                1500
+                                                       TOTAL   7925        6952
+2 SAMPLING MOON
+Travel                    2 man days                            600
+Bark sampling             Technician 1 days                     200
+Establishing Grid         Geologist 1 day/technician 1 day      600
+Analysis                  60samples @ $25 each                 3750
+Sample transport                                                 50
+Food Lodging              3 man-days $75/day                    225
+Truck rental/gas                                                250
+Report/drafting                                                 500
+                                                       TOTAL   6175        5417
+3  TRENCHING
+Backhoe rental            5 days @ 600/day                     3000
+Permitting                                                     4000
+Mobe /Demobe                                                   3000
+Supervision sampling      Geologist  5 days                    2500
+
+                                       22
+ 
+Travel                    Geologist  2 days                    1000
+Food and Lodging          5 days @ $75/day                      375
+Truck rental /gas         7 days                                500
+Report and drafting                                            1500
+Analysis                                                       1500
+Contingency                                                    2000
+                                                       TOTAL  19375       16996
+                                                                          29365
+
+
+
+        [MAP SHOWING THE TELLURIC GOLD PROPERTY CLAIMS-ROADS-TOPOGRAPHY]
+
+                                       23
+ 
+We plan to commence Phase 1 of the exploration program on the claim in the
+spring of 2007. We expect this phase to take 10 days to complete and an
+additional one to two months for the geologist to receive the results from the
+assay lab and prepare his report.
+
+The above program costs are management's estimates based upon the
+recommendations of the professional geologist's report and the actual project
+costs may exceed our estimates. To date, we have not commenced exploration.
+
+Following phase one of the exploration program, if it proves successful in
+identifying mineral deposits, we intend to proceed with phase two of our
+exploration program. The estimated this program will take approximately 12 days
+to complete and an additional one to two months for the geologist to receive the
+results from the assay lab and prepare his report.
+
+Subject to the results of phase 1, we anticipate commencing the second phase of
+our exploration program in summer 2007. Subject to financing and the results of
+phases 1 and 2 we anticipate commencing with phase 3 in fall 2007 or spring
+2008. We have a verbal agreement with Andre Pauwels, the professional geologist
+who prepared the geology report on the Telluric Gold Property, to retain his
+services for our planned exploration program. We will require additional funding
+to proceed with any subsequent work on the claim; we have no current plans on
+how to raise the additional funding. We cannot provide any assurance that we
+will be able to raise sufficient funds to proceed with any work after the first
+three phases of the exploration program.
+
+OFF-BALANCE SHEET ARRANGEMENTS
+
+We do not have any off-balance sheet arrangements that have or are reasonably
+likely to have a current or future effect on our financial condition, changes in
+financial condition, revenues or expenses, results of operations, liquidity,
+capital expenditures or capital resources that is material to investors.
+
+LIMITED OPERATING HISTORY; NEED FOR ADDITIONAL CAPITAL
+
+There is no historical financial information about us on which to base an
+evaluation of our performance. We are an exploration stage company and have not
+generated revenues from operations. We cannot guarantee we will be successful in
+our business operations. Our business is subject to risks inherent in the
+establishment of a new business enterprise, including limited capital resources,
+possible delays in the exploration of our property, and possible cost overruns
+due to increases in the cost of services.
+
+To become profitable and competitive, we must conduct the exploration of our
+properties before we start into production of any minerals we may find. We have
+no assurance that future financing will materialize. If that financing is not
+available to us for extraction if our exploration program is successful we may
+be unable to continue.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Our current cash balance is $29,459. If the first three phases of our
+exploration program are successful in identifying mineral deposits we will
+attempt to raise the necessary funds to proceed with subsequent drilling and
+extraction. The sources of funding we may consider to fund this work include a
+second offering, a private placement of our securities or loans from our
+director or others.
+
+Our directors have agreed to advance funds to pay the cost of reclamation of the
+property should exploitable minerals not be found and we abandon the three
+phases of our exploration program and there are no remaining funds in the
+company. While they have agreed to advance the funds, the agreement is verbal
+and is unenforceable as a matter of law.
+
+                                       24
+ 
+We received our initial funding of $5,000 through the sale of common stock to
+our officers and directors, who purchased 5,000,000 shares of our common stock
+at $0.001 per share in February 2006 and to investors from the period of March,
+2006 through May, 2006. In March 2006 we offered and sold 1,300,000 common stock
+shares at $0.01 per share to 16 non-affiliated private investors for proceeds of
+$13,000. In April 2006 we offered and sold 75,000 common stock shares at $0.10
+per share to 15 non-affiliated private investors for proceeds of $7,500. In May
+2006 we offered and sold 150,000 common stock shares at $0.20 per share to 3
+non-affiliated private investors for proceeds of $30,000. From inception until
+the date of this filing we have had no operating activities. Our financial
+statements from inception (June 21, 2005) through the period ended October 31,
+2006 report no revenues and a net loss of $40,488.
+
+SIGNIFICANT ACCOUNTING POLICIES
+
+BASIS OF PRESENTATION
+
+The financial statements of the Company have been prepared in accordance with
+generally accepted accounting principles in the United States of America and are
+presented in US dollars.
+
+EXPLORATION STAGE COMPANY
+
+The Company complies with Financial Accounting Standards Board Statement
+("FASB") No. 7 "Accounting and Reporting by Development Stage Enterprises" in
+its characterization of the Company as an exploration stage enterprise.
+
+MINERAL INTERESTS
+
+The Company has been in the exploration stage of its resource business since its
+formation on June 21, 2005 and has not realized any revenues from its planned
+operations. It is primarily engaged in the acquisition and exploration of
+mineral properties. Mineral property acquisition, exploration and development
+costs are expensed as incurred until such time as economic reserves are
+quantified. The recoverability of capitalized costs of mineral properties are
+presumed to be insupportable under FASB Statement No. 144 prior to determining
+the existence of a commercially mineable deposit, as contemplated by Industry
+Guide 7 for mining companies in the exploration stage. Further, the Company has
+considered the guidance under EITF 04-2 and has determined that capitalization
+of mineral property acquisition costs is inappropriate at the current stage of
+the Company's mineral property exploration activities. When it has been
+determined that a mineral property can be economically developed as a result of
+establishing proven and probable reserves, the costs incurred to develop such
+property will be capitalized. Such costs will be amortized using the
+unit-of-production method over the estimated life of proven reserves. As of the
+date of these financial statements, the Company has incurred only exploration
+costs which have been charged to operations. To date the Company has not
+established any proven or probable reserves on its mineral properties.
+
+The Company has adopted the provisions of Statement of Financial Accounting
+Standards ("SFAS') No. 143 "Accounting for Asset Retirement Obligations" which
+establishes standards for the initial measurement and subsequent accounting for
+obligations associated with the sale, abandonment, or other disposal of
+long-term tangible assets arising from the acquisition, construction or
+development and for normal operations of such assets. As of July 31, 2006, any
+potential costs related to the retirement of the Company's mineral property
+interests have not been determined.
+
+                                       25
+ 
+USE OF ESTIMATES AND ASSUMPTIONS
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the period. Actual results
+could differ from those estimates.
+
+FOREIGN CURRENCY TRANSLATION
+
+The financial statements are presented in United States dollars. In accordance
+with No. 52, "Foreign Currency Translation", foreign denominated monetary assets
+and liabilities are translated into their United States dollar equivalents using
+foreign exchange rates which prevailed at the balance sheet date. Non monetary
+assets are translated at the exchange rates prevailing at the transaction date.
+Revenue and expenses are translated at average rates of exchange during the
+year. Gains or losses resulting from foreign currency transactions are included
+in results of operations.
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+The carrying value of cash and accounts payable and accrued liabilities
+approximates its fair value because of the short maturity of these instruments.
+Unless otherwise noted, it is management's opinion the Company is not exposed to
+significant interest, currency or credit risks arising from these financial
+instruments.
+
+ENVIRONMENTAL COSTS
+
+Environmental expenditures that relate to current operations are expensed or
+capitalized as appropriate. Expenditures that relate to an existing condition
+caused by past operations, and which do not contribute to current or future
+revenue generation, are expensed. Liabilities are recorded when environmental
+assessments and/or remedial efforts are probable, and the cost can be reasonably
+estimated. Generally, the timing of these accruals coincides with the earlier of
+completion of a feasibility study or the Company's commitments to plan of action
+based on the then known facts.
+
+INCOME TAXES
+
+The Company follows the liability method of accounting for income taxes. Under
+this method, deferred income tax assets and liabilities are recognized for the
+estimated tax consequences attributable to differences between the financial
+statement carrying values and their respective income tax basis (temporary
+differences). The effect on deferred income tax assets and liabilities of a
+change in tax rates is recognized in income in the period that includes the
+enactment date.
+
+BASIC AND DILUTED LOSS PER SHARE
+
+The Company computes loss per share in accordance with SFAS No. 128, "Earnings
+per Share" which requires presentation of both basic and diluted earnings per
+share on the face of the statement of operations. Basic loss per share is
+computed by dividing net loss available to common shareholders by the weighted
+average number of outstanding common shares during the period. Diluted loss per
+share gives effect to all dilutive potential common shares outstanding during
+the period including stock options and warrants using the treasury method.
+Dilutive loss per share excludes all potential common shares if their effect is
+anti-dilutive.
+
+                                       26
+ 
+STOCK-BASED COMPENSATION
+
+In December 2004, the FASB issued SFAS No. 123R, "Share-Based Payment", which
+replaced SFAS No. 123, "Accounting for Stock-Based Compensation" and superseded
+APB Opinion No. 25, "Accounting for Stock Issued to Employees". In January 2005,
+the Securities and Exchange Commission ("SEC") issued Staff Accounting Bulletin
+("SAB") No. 107, "Share-Based Payment", which provides supplemental
+implementation guidance for SFAS No. 123R. SFAS No. 123R requires all
+share-based payments to employees, including grants of employee stock options,
+to be recognized in the financial statements based on the grant date fair value
+of the award. SFAS No. 123R was to be effective for interim or annual reporting
+periods beginning on or after June 15, 2005, but in April 2005 the SEC issued a
+rule that will permit most registrants to implement SFAS No. 123R at the
+beginning of their next fiscal year, instead of the next reporting period as
+required by SFAS No. 123R. The pro-forma disclosures previously permitted under
+SFAS No. 123 no longer will be an alternative to financial statement
+recognition. Under SFAS No. 123R, the Company must determine the appropriate
+fair value model to be used for valuing share-based payments, the amortization
+method for compensation cost and the transition method to be used at date of
+adoption. The transition methods include prospective and retroactive adoption
+options. Under the retroactive options, prior periods may be restated either as
+of the beginning of the year of adoption or for all periods presented. The
+prospective method requires that compensation expense be recorded for all
+unvested stock options and restricted stock at the beginning of the first
+quarter of adoption of SFAS No. 123R, while the retroactive methods would record
+compensation expense for all unvested stock options and restricted stock
+beginning with the first period restated. The Company has adopted the
+prospective method of SFAS No. 123R on August 1, 2005, the beginning of fiscal
+year 2006. As the Company had no outstanding stock options at August 1, 2005 no
+compensation expense was recorded.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+In February 2006, the FASB issued SFAS No. 155, "Accounting for Certain Hybrid
+Financial Instruments-an amendment of FASB Statements No. 133 and 140", to
+simplify and make more consistent the accounting for certain financial
+instruments. SFAS No. 155 amends SFAS No. 133, "Accounting for Derivative
+Instruments and Hedging Activities", to permit fair value re-measurement for any
+hybrid financial instrument with an embedded derivative that otherwise would
+require bifurcation, provided that the whole instrument is accounted for on a
+fair value basis. SFAS No. 155 amends SFAS No. 140, "Accounting for the
+Impairment or Disposal of Long-Lived Assets", to allow a qualifying
+special-purpose entity to hold a derivative financial instrument that pertains
+to a beneficial interest other than another derivative financial instrument.
+SFAS No. 155 applies to all financial instruments acquired or issued after the
+beginning of an entity's first fiscal year that begins after September 15, 2006,
+with earlier application allowed. This standard is not expected to have a
+significant effect on the Company's future reported financial position or
+results of operations.
+
+In March 2006, the FASB issued SFAS No. 156, "Accounting for Servicing of
+Financial Assets, an amendment of FASB Statement No. 140, Accounting for
+Transfers and Servicing of Financial Assets and Extinguishments of Liabilities".
+This statement requires all separately recognized servicing assets and servicing
+liabilities be initially measured at fair value, if practicable, and permits for
+subsequent measurement using either fair value measurement with changes in fair
+value reflected in earnings or the amortization and impairment requirements of
+Statement No. 140. The subsequent measurement of separately recognized servicing
+assets and servicing liabilities at fair value eliminates the necessity for
+entities that manage the risks inherent in servicing assets and servicing
+liabilities with derivatives to qualify for hedge accounting treatment and
+eliminates the characterization of declines in fair value as impairments or
+direct write-downs. SFAS No. 156 is effective for an entity's first fiscal year
+beginning after September 15, 2006. This adoption of this statement is not
+expected to have a significant effect on the Company's future reported financial
+position or results of operations.
+
+                                       27
+ 
+RECENT ACCOUNTING PRONOUNCEMENTS (CONTINUED)
+
+In September 2006, the FASB issued SFAS No. 157, "FAIR VALUE MEASURES" ("SFAS
+No. 157"). This Statement defines fair value, establishes a framework for
+measuring fair value in generally accepted accounting principles (GAAP), expands
+disclosures about fair value measurements, and applies under other accounting
+pronouncements that require or permit fair value measurements. SFAS No. 157 does
+not require any new fair value measurements. However, the FASB anticipates that
+for some entities, the application of SFAS No. 157 will change current practice.
+SFAS No. 157 is effective for financial statements issued for fiscal years
+beginning after November 15, 2007, which for the Company would be its fiscal
+year beginning August 31, 2008. The Company is currently evaluating the impact
+of SFAS No. 157 but does not expect that it will have a material impact on its
+financial statements.
+
+In September 2006, the FASB issued SFAS No. 158, "Employers' Accounting for
+Defined Benefit Pension and Other Postretirement Plans." This Statement requires
+an employer to recognize the over funded or under funded status of a defined
+benefit post retirement plan (other than a multiemployer plan) as an asset or
+liability in its statement of financial position, and to recognize changes in
+that funded status in the year in which the changes occur through comprehensive
+income. SFAS No. 158 is effective for fiscal years ending after December 15,
+2006. The Company does not expect that the implementation of SFAS No. 158 will
+have any material impact on its financial position and results of operations.
+
+In September 2006, the SEC issued Staff Accounting Bulletin ("SAB") No. 108,
+"Considering the Effects of Prior Year Misstatements when Quantifying
+Misstatements in Current Year Financial Statements." SAB No. 108 addresses how
+the effects of prior year uncorrected misstatements should be considered when
+quantifying misstatements in current year financial statements. SAB No. 108
+requires companies to quantify misstatements using a balance sheet and income
+statement approach and to evaluate whether either approach results in
+quantifying an error that is material in light of relevant quantitative and
+qualitative factors. SAB No. 108 is effective for periods ending after November
+15, 2006. The Company is currently evaluating the impact of adopting SAB No. 108
+but does not expect that it will have a material effect on its financial
+statements.
+
+                             DESCRIPTION OF PROPERTY
+
+We do not currently own any property. We are currently utilizing space at the
+residence of our president at 102-5212 48th Street, Red Deer, Alberta Canada. We
+believe the current premises are sufficient for our needs at this time.
+
+We currently have no investment policies as they pertain to real estate, real
+estate interests or real estate mortgages.
+
+                 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+In February 2006, a total of 5,000,000 shares of Common Stock were issued to
+Reese Baglole and Dave Shaw in exchange for $5,000 US, or $.001 per share. All
+of such shares are "restricted" securities, as that term is defined by the
+Securities Act of 1933, as amended, and are held by the officers and directors
+of the Company. (See "Principal Stockholders".)
+
+                                       28
+ 
+            MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+
+We plan to contact a market maker immediately following the completion of the
+offering and apply to have the shares quoted on the OTC Electronic Bulletin
+Board (OTCBB). The OTCBB is a regulated quotation service that displays
+real-time quotes, last sale prices and volume information in over-the-counter
+(OTC) securities. The OTCBB is not an issuer listing service, market or
+exchange. Although the OTCBB does not have any listing requirements per se, to
+be eligible for quotation on the OTCBB, issuers must remain current in their
+filings with the SEC or applicable regulatory authority. Market Makers are not
+permitted to begin quotation of a security whose issuer does not meet this
+filing requirement. Securities already quoted on the OTCBB that become
+delinquent in their required filings will be removed following a 30 or 60 day
+grace period if they do not make their required filing during that time. We
+cannot guarantee that our application will be accepted or approved and our stock
+listed and quoted for sale. As of the date of this filing, there have been no
+discussions or understandings between Madrona Ventures Inc., and, anyone acting
+on our behalf with any market maker regarding participation in a future trading
+market for our securities.
+
+As of the date of this filing, there is no public market for our securities.
+There has been no public trading of our securities, and, therefore, no high and
+low bid pricing. As of the date of this prospectus we have one shareholder of
+record. We have paid no cash dividends and have no outstanding options.
+
+PENNY STOCK RULES
+
+The Securities and Exchange Commission has also adopted rules that regulate
+broker-dealer practices in connection with transactions in penny stocks. Penny
+stocks are generally equity securities with a price of less than $5.00 (other
+than securities registered on certain national securities exchanges or quoted on
+the Nasdaq system, provided that current price and volume information with
+respect to transactions in such securities is provided by the exchange or
+system).
+
+A purchaser is purchasing penny stock which limits the ability to sell the
+stock. The shares offered by this prospectus constitute penny stock under the
+Securities and Exchange Act. The shares will remain penny stocks for the
+foreseeable future. The classification of penny stock makes it more difficult
+for a broker-dealer to sell the stock into a secondary market, which makes it
+more difficult for a purchaser to liquidate his/her investment. Any
+broker-dealer engaged by the purchaser for the purpose of selling his or her
+shares in us will be subject to Rules 15g-1 through 15g-10 of the Securities and
+Exchange Act. Rather than creating a need to comply with those rules, some
+broker-dealers will refuse to attempt to sell penny stock.
+
+The penny stock rules require a broker-dealer, prior to a transaction in a penny
+stock not otherwise exempt from those rules, to deliver a standardized risk
+disclosure document, which:
+
+     -    contains a description of the nature and level of risk in the market
+          for penny stock in both public offerings and secondary trading;
+     -    contains a description of the broker's or dealer's duties to the
+          customer and of the rights and remedies available to the customer with
+          respect to a violation of such duties or other requirements of the
+          Securities Act of 1934, as amended;
+     -    contains a brief, clear, narrative description of a dealer market,
+          including "bid" and "ask" price for the penny stock and the
+          significance of the spread between the bid and ask price;
+     -    contains a toll-free telephone number for inquiries on disciplinary
+          actions;
+
+                                       29
+ 
+     -    defines significant terms in the disclosure document or in the conduct
+          of trading penny stocks; and
+     -    contains such other information and is in such form (including
+          language, type, size and format) as the Securities and Exchange
+          Commission shall require by rule or regulation;
+
+The broker-dealer also must provide, prior to effecting any transaction in a
+penny stock, to the customer:
+
+     -    the bid and offer quotations for the penny stock;
+     -    the compensation of the broker-dealer and its salesperson in the
+          transaction;
+     -    the number of shares to which such bid and ask prices apply, or other
+          comparable information relating to the depth and liquidity of the
+          market for such stock; and
+     -    monthly account statements showing the market value of each penny
+          stock held in the customer's account.
+
+In addition, the penny stock rules require that prior to a transaction in a
+penny stock not otherwise exempt from those rules; the broker-dealer must make a
+special written determination that the penny stock is a suitable investment for
+the purchaser and receive the purchaser's written acknowledgment of the receipt
+of a risk disclosure statement, a written agreement to transactions involving
+penny stocks, and a signed and dated copy of a written suitability statement.
+These disclosure requirements will have the effect of reducing the trading
+activity in the secondary market for our stock because it will be subject to
+these penny stock rules. Therefore, stockholders may have difficulty selling
+their securities.
+
+REPORTS
+
+We will become subject to certain filing requirements and will furnish annual
+financial reports to our stockholders, certified by our independent accountant,
+and will furnish un-audited quarterly financial reports in our quarterly reports
+filed electronically with the SEC. All reports and information filed by us can
+be found at the SEC website, www.sec.gov.
+
+                             EXECUTIVE COMPENSATION
+
+Our current officers receive no compensation. The current Board of Directors is
+comprised solely of Reese Baglole and Dave Shaw.
+
+                           Summary Compensation Table
+
+ 
+ 
+                                                 Other
+Name &                                           Annual      Restricted                            All Other
+Principal                                       Compen-        Stock         Options      LTIP      Compen-
+Position         Year    Salary($)   Bonus($)   sation($)    Award(s)($)     SARs(#)   Payouts($)  sation($)
+- --------         ----    ---------   --------   ---------    -----------     -------   ----------  ---------
+                                                                                   
+R Baglole        2006       -0-         -0-        -0-           -0-           -0-        -0-         -0-
+President        2005       -0-         -0-        -0-           -0-           -0-        -0-         -0-
+
+D Shaw           2006       -0-         -0-        -0-           -0-           -0-        -0-         -0-
+Director         2005       -0-         -0-        -0-           -0-           -0-        -0-         -0-
+ 
+
+                                       30
+ 
+There are no current employment agreements between the company and its executive
+officers.
+
+In February 2006, a total of 5,000,000 shares of common stock were issued to
+Reese Baglole and David Shaw in exchange for cash in the amount of $5,000 U.S.,
+or $.001 per share.
+
+The terms of these stock issuances were as fair to the company, in the opinion
+of the board of directors, as could have been made with an unaffiliated third
+party.
+
+Reese Baglole and Dave Shaw currently devote approximately 5-7 hours per week to
+manage the affairs of the company. They have agreed to work with no remuneration
+until such time as the company receives sufficient revenues necessary to provide
+management salaries. At this time, we cannot accurately estimate when sufficient
+revenues will occur to implement this compensation, or what the amount of the
+compensation will be.
+
+There are no annuity, pension or retirement benefits proposed to be paid to
+officers, directors or employees in the event of retirement at normal retirement
+date pursuant to any presently existing plan provided or contributed to by the
+company or any of its subsidiaries, if any.
+
+                              FINANCIAL STATEMENTS
+
+The financial statements of Madrona Ventures Inc. for the years ended July 31,
+2006 and 2005, and related notes, included in this prospectus have been audited
+by Dale Matheson Carr-Hilton LaBonte LLP, "DMCL" Chartered Accountants, and have
+been so included in reliance upon the opinion of such accountants given upon
+their authority as an expert in auditing and accounting.
+
+The financial statements of Madrona Ventures Inc. for the period ended October
+31, 2006, and related notes, prepared by the company and included in this
+prospectus have been reviewed by Dale Matheson Carr-Hilton LaBonte LLP, "DMCL"
+Chartered Accountants.
+
+      CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON FINANCIAL DISCLOSURE
+
+None.
+
+                                       31
+ 
+   [LETTERHEAD OF DALE MATHESON CARR-HILTON LABONTE LLP CHARTERED ACCOUNTANTS]
+
+
+
+             REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+- --------------------------------------------------------------------------------
+
+To the Stockholders and Board of Directors of Madrona Ventures Inc.:
+
+We have audited the balance  sheets of Madrona  Ventures  Inc.  (an  exploration
+stage  company) as at July 31, 2006 and 2005 and the  statements of  operations,
+stockholders' equity and cash flows for the year ended July 31, 2006, the period
+from June 21,  2005  (Inception)  to July 31,  2005 and the period from June 21,
+2005  (Inception)  to  July  31,  2006.  These  financial   statements  are  the
+responsibility of the Company's management.  Our responsibility is to express an
+opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance  with the standards of the Public  Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and  perform  an audit to obtain  reasonable  assurance  whether  the  financial
+statements  are free of material  misstatement.  The Company is not  required to
+have,  nor were we engaged to perform,  an audit of its  internal  control  over
+financial reporting.  Our audits included consideration of internal control over
+financial  reporting  as  a  basis  for  designing  audit  procedures  that  are
+appropriate  in the  circumstances,  but not for the  purpose of  expressing  an
+opinion on the  effectiveness  of the Company's  internal control over financial
+reporting.  Accordingly,  we express  no such  opinion.  An audit also  includes
+examining,  on a test basis,  evidence supporting the amounts and disclosures in
+the  financial  statements.  An audit also  includes  assessing  the  accounting
+principles  used  and  significant  estimates  made  by  management,  as well as
+evaluating the overall  financial  statement  presentation.  We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion,  these  financial  statements  present  fairly,  in all material
+respects, the financial position of the Company as at July 30, 2006 and 2005 and
+the results of its operations and cash flows and changes in stockholders' equity
+for the year ended July 31, 2006,  the period from June 21, 2005  (Inception) to
+July 31, 2005 and the period from June 21, 2005  (Inception) to July 31, 2006 in
+conformity with accounting principles generally accepted in the United States of
+America.
+
+The  accompanying  financial  statements  have been  prepared  assuming that the
+Company  will  continue  as a  going  concern.  As  discussed  in  Note 1 to the
+financial  statements,  to date the Company  has not  generated  revenues  since
+inception,  has incurred  losses in developing its business,  and further losses
+are anticipated.  The Company requires  additional funds to meet its obligations
+and finance its  operations.  These  factors raise  substantial  doubt about the
+Company's  ability to continue as a going  concern.  Management's  plans in this
+regard are  described  in Note 1. The  financial  statements  do not include any
+adjustments that might result from the outcome of this uncertainty.
+
+
+
+                                       /s/ DALE MATHESON CARR-HILTON LABONTE LLP
+                                       -----------------------------------------
+                                           DALE MATHESON CARR-HILTON LABONTE LLP
+                                                           CHARTERED ACCOUNTANTS
+
+Vancouver, Canada
+October 11, 2006
+
+                                      F-1
+ 
+MADRONA VENTURES INC.
+(An Exploration Stage Company)
+BALANCE SHEETS
+- --------------------------------------------------------------------------------
+
+ 
+ 
+                                                                        October 31,     July 31,      July 31,
+                                                                           2006           2006          2005
+                                                                         --------       --------      --------
+                                                                        (Unaudited)     (Audited)     (Audited)
+                                                                                                 
+ASSETS
+
+Current assets
+  Cash                                                                   $ 22,459       $ 30,822      $     --
+                                                                         ========       ========      ========
+LIABILITIES
+
+Current liabilities
+  Accounts payable and accrued liabilities                               $  7,447       $  7,447      $     --
+                                                                         --------       --------      --------
+STOCKHOLDERS' EQUITY
+
+Common stock (Note 4)
+  Authorized:
+   75,000,000 common shares with a par value of $0.001
+  Issued and outstanding:
+   6,525,000 common shares (July 31, 2006-6,525,000: July 31, 2005-Nil)     6,525          6,525            --
+Additional paid in capital                                                 48,975         48,975            --
+Deficit accumulated during the exploration stage                          (40,488)       (32,125)           --
+                                                                         --------       --------      --------
+
+                                                                           15,012         23,375
+                                                                         --------       --------      --------
+
+                                                                         $ 22,459       $ 30,822      $     --
+                                                                         ========       ========      ========
+ 
+
+Nature and continuance of operations (Note 1)
+
+                           - See Accompanying Notes -
+
+                                      F-2
+ 
+MADRONA VENTURES INC.
+(An Exploration Stage Company)
+Statements of Operations
+- --------------------------------------------------------------------------------
+
+ 
+ 
+                                                                       Period from      Period from     Cumulative from
+                                       Three Months                   June 21, 2005     June 21, 2005    June 21, 2005
+                                          ended        Year ended    (Inception) to    (Inception) to   (Inception) to
+                                       October 31,      July 31,        July 31,         July 31,         October 31,
+                                          2006            2006            2005             2006              2006
+                                       -----------     -----------     -----------      -----------       -----------
+                                       (Unaudited)      (Audited)       (Audited)        (Audited)        (Unaudited)
+                                                                                                 
+EXPENSES
+  General and administrative           $       795     $       678     $        --      $       678       $     1,473
+  Mineral Interest (Note 3)                  7,568          31,447              --           31,447            39,015
+                                       -----------     -----------     -----------      -----------       -----------
+
+NET LOSS                               $     8,363     $    32,125     $        --      $    32,125       $    40,488
+                                       ===========     ===========     ===========      ===========       ===========
+
+BASIC AND DILUTED NET LOSS PER SHARE   $     (0.00)    $     (0.02)    $        --
+                                       ===========     ===========     ===========
+
+WEIGHTED AVERAGE NUMBER OF SHARES
+OUTSTANDING                              6,525,000       2,003,219              --
+                                       ===========     ===========     ===========
+ 
+
+                           - See Accompanying Notes -
+
+                                      F-3
+ 
+MADRONA VENTURES INC.
+(An Exploration Stage Company)
+STATEMENT OF STOCKHOLDERS' EQUITY
+For the period June 21, 2005 (Inception) to October 31, 2006
+- --------------------------------------------------------------------------------
+
+ 
+ 
+                                                                                         Deficit
+                                                                                       Accumulated
+                                                                         Additional     During the
+                                                Common Shares             Paid-in      Exploration
+                                            Number        Par Value       Capital         Stage           Total
+                                                     - $ -                 - $ -          - $ -           - $ -
+                                           ---------      ---------      ---------      ---------       ---------
+                                                                                               
+Balance June 21, 2005                             --             --             --             --              --
+                                           ---------      ---------      ---------      ---------       ---------
+Balance July 31, 2005                             --             --             --             --              --
+
+Common shares issued for cash:
+  - March 2006 at $0.001 per share         5,000,000          5,000             --             --           5,000
+  - March 2006 at $0.01 per share          1,300,000          1,300         11,700             --          13,000
+  - April 2006 at $0.10 per share             75,000             75          7,425             --           7,500
+  - May 2006 at $0.20 per share              150,000            150         29,850             --          30,000
+
+Net loss                                          --             --             --        (32,125)        (32,125)
+                                           ---------      ---------      ---------      ---------       ---------
+
+Balance, July 31, 2006 (Audited)           6,525,000          6,525         48,975        (32,125)         23,375
+
+Net loss                                          --             --             --         (8,363)         (8,363)
+                                           ---------      ---------      ---------      ---------       ---------
+
+Balance, October 31, 2006 (Unaudited)      6,525,000          6,525         48,975        (40,488)         15,012
+                                           =========      =========      =========      =========       =========
+ 
+
+                           - See Accompanying Notes -
+
+                                      F-4
+ 
+MADRONA VENTURES INC.
+(An Exploration Stage Company)
+Statements of Cash Flows
+- --------------------------------------------------------------------------------
+
+ 
+ 
+                                                                            Period from      Period from     Cumulative from
+                                              Three Months                 June 21, 2005     June 21, 2005    June 21, 2005
+                                                 ended       Year ended   (Inception) to    (Inception) to   (Inception) to
+                                              October 31,     July 31,       July 31,         July 31,         October 31,
+                                                 2006           2006           2005             2006              2006
+                                               --------       --------       ---------        --------          --------
+                                              (Unaudited)     (Audited)      (Audited)        (Audited)        (Unaudited)
+
+                                                                                                            
+CASH FLOWS FROM OPERATING ACTIVITIES
+  Net loss                                     $ (8,363)      $(32,125)      $      --        $(32,125)         $(40,488)
+  Changes in non cash working capital items:
+    Accounts payable and accrued liabilities      7,447          7,447              --           7,447             7,447
+                                               --------       --------       ---------        --------          --------
+
+Net cash used in operations                      (8,363)       (24,678)             --         (24,678)          (33,041)
+                                               --------       --------       ---------        --------          --------
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+  Shares issued for cash                             --         55,000              --          55,500            55,500
+                                               --------       --------       ---------        --------          --------
+
+Net cash provided by financing activities            --         55,000              --          55,500            55,500
+                                               --------       --------       ---------        --------          --------
+
+NET INCREASE IN CASH                              (8363)        30,822              --          30,822            22,459
+
+CASH, BEGINNING                                  30,822             --              --              --                --
+                                               --------       --------       ---------        --------          --------
+
+CASH, ENDING                                   $ 22,459       $ 30,822       $      --        $ 30,822          $ 22,459
+                                               ========       ========       =========        ========          ========
+
+SUPPLEMENTAL CASH FLOW INFORMATION:
+
+Cash paid for:
+  - Interest                                         --             --              --              --                --
+                                               ========       ========       =========        ========          ========
+  - Income taxes                                     --             --              --              --                --
+                                               ========       ========       =========        ========          ========
+ 
+
+                           - See Accompanying Notes -
+
+                                      F-5
+ 
+MADRONA VENTURES INC.
+(An Exploration Stage Company)
+Notes To The Financial Statements
+October 31, 2006
+- --------------------------------------------------------------------------------
+
+1. NATURE OF OPERATIONS
+
+   The Company was  incorporated  in the State of Nevada on June 21, 2005 and is
+   in  the  exploration   stage.  The   recoverability  of  costs  incurred  for
+   acquisition  and  exploration  of the  property  will be  dependent  upon the
+   discovery of economically recoverable reserves, confirmation of the Company's
+   interest  in the  underlying  property,  the ability of the Company to obtain
+   necessary  financing  to  satisfy  the  expenditure  requirements  under  the
+   property  agreement and to complete the  development of the property and upon
+   future profitable production or proceeds from the sale thereof.
+
+   These financial  statements have been prepared on a going concern basis which
+   assumes the  Company  will be able to realize  its assets and  discharge  its
+   liabilities in the normal course of business for the foreseeable  future. The
+   Company has incurred losses of $32,125 since inception and further losses are
+   anticipated  in the  development  of its  business  raising  doubt  about the
+   Company's ability to continue as a going concern.  The ability to continue as
+   a  going  concern  is  dependent  upon  the  Company  generating   profitable
+   operations in the future and/or obtaining the necessary financing to meet its
+   obligations and repay its liabilities arising from normal business operations
+   when they come due.  Management  intends to finance  operating costs over the
+   next twelve months with existing cash on hand and loans from directors and or
+   private placement of common stock.
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+   BASIS OF PRESENTATION
+
+   The financial statements of the Company have been prepared in accordance with
+   generally accepted accounting  principles in the United States of America and
+   are presented in US dollars.
+
+   EXPLORATION STAGE COMPANY
+
+   The Company  complies with Financial  Accounting  Standards  Board  Statement
+   ("FASB") No. 7 "Accounting and Reporting by Development Stage Enterprises" in
+   its characterization of the Company as an exploration stage enterprise.
+
+   MINERAL INTERESTS
+
+   The Company has been in the exploration  stage of its resource business since
+   its  formation on June 21, 2005 and has not  realized  any revenues  from its
+   planned   operations.   It  is  primarily  engaged  in  the  acquisition  and
+   exploration of mineral properties. Mineral property acquisition,  exploration
+   and  development  costs are expensed as incurred  until such time as economic
+   reserves are quantified.  The  recoverability of capitalized costs of mineral
+   properties  are presumed to be  insupportable  under FASB  Statement  No. 144
+   prior to determining  the existence of a commercially  mineable  deposit,  as
+   contemplated  by Industry  Guide 7 for mining  companies  in the  exploration
+   stage.  Further,  the Company has considered the guidance under EITF 04-2 and
+   has determined that  capitalization of mineral property  acquisition costs is
+   inappropriate  at  the  current  stage  of  the  Company's  mineral  property
+   exploration  activities.  When it has been determined that a mineral property
+   can be economically developed as a result of establishing proven and probable
+   reserves,  the costs  incurred to develop such property will be  capitalized.
+   Such costs will be  amortized  using the  unit-of-production  method over the
+   estimated  life  of  proven  reserves.  As of the  date  of  these  financial
+   statements,  the Company has incurred only exploration  costs which have been
+   charged to operations.  To date the Company has not established any proven or
+   probable reserves on its mineral properties.
+
+   The Company has adopted the  provisions of Statement of Financial  Accounting
+   Standards  ("SFAS') No. 143  "Accounting  for Asset  Retirement  Obligations"
+   which  establishes  standards  for the  initial  measurement  and  subsequent
+   accounting for obligations  associated with the sale,  abandonment,  or other
+   disposal  of  long-term   tangible  assets  arising  from  the   acquisition,
+   construction or development and for normal  operations of such assets.  As of
+   October 31,  2006,  any  potential  costs  related to the  retirement  of the
+   Company's mineral property interests have not been determined.
+
+                                      F-6
+ 
+MADRONA VENTURES INC.
+(An Exploration Stage Company)
+Notes To The Financial Statements
+October 31, 2006
+- --------------------------------------------------------------------------------
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+   USE OF ESTIMATES AND ASSUMPTIONS
+
+   The preparation of financial statements in conformity with generally accepted
+   accounting  principles  requires management to make estimates and assumptions
+   that affect the reported  amounts of assets and liabilities and disclosure of
+   contingent assets and liabilities at the date of the financial statements and
+   the  reported  amounts of revenues  and  expenses  during the period.  Actual
+   results could differ from those estimates.
+
+   FOREIGN CURRENCY TRANSLATION
+
+   The  financial   statements  are  presented  in  United  States  dollars.  In
+   accordance with No. 52, "Foreign Currency  Translation",  foreign denominated
+   monetary  assets and  liabilities  are  translated  into their United  States
+   dollar  equivalents  using  foreign  exchange  rates which  prevailed  at the
+   balance sheet date. Non monetary  assets are translated at the exchange rates
+   prevailing at the  transaction  date.  Revenue and expenses are translated at
+   average rates of exchange  during the year.  Gains or losses  resulting  from
+   foreign currency transactions are included in the results of operations.
+
+   FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+   The  carrying  value of cash and  accounts  payable and  accrued  liabilities
+   approximates   its  fair  value  because  of  the  short  maturity  of  these
+   instruments.  Unless otherwise noted, it is management's  opinion the Company
+   is not exposed to significant interest, currency or credit risks arising from
+   these financial instruments.
+
+   ENVIRONMENTAL COSTS
+
+   Environmental  expenditures that relate to current operations are expensed or
+   capitalized as appropriate. Expenditures that relate to an existing condition
+   caused by past  operations,  and which do not contribute to current or future
+   revenue generation, are expensed. Liabilities are recorded when environmental
+   assessments  and/or  remedial  efforts  are  probable,  and the  cost  can be
+   reasonably estimated.  Generally, the timing of these accruals coincides with
+   the earlier of completion of a feasibility study or the Company's commitments
+   to plan of action based on the then known facts.
+
+   INCOME TAXES
+
+   The Company  follows the  liability  method of  accounting  for income taxes.
+   Under this method,  deferred income tax assets and liabilities are recognized
+   for the estimated tax  consequences  attributable to differences  between the
+   financial  statement  carrying values and their  respective  income tax basis
+   (temporary  differences).  The  effect on  deferred  income  tax  assets  and
+   liabilities  of a change in tax rates is  recognized  in income in the period
+   that includes the enactment date.
+
+   BASIC AND DILUTED LOSS PER SHARE
+
+   The  Company  computes  loss  per  share in  accordance  with  SFAS No.  128,
+   "Earnings per Share" which  requires  presentation  of both basic and diluted
+   earnings per share on the face of the statement of operations. Basic loss per
+   share is computed by dividing net loss  available to common  shareholders  by
+   the weighted  average number of outstanding  common shares during the period.
+   Diluted loss per share gives effect to all dilutive  potential  common shares
+   outstanding  during the period including stock options and warrants using the
+   treasury method. Dilutive loss per share excludes all potential common shares
+   if their effect is anti-dilutive.
+
+                                      F-7
+ 
+MADRONA VENTURES INC.
+(An Exploration Stage Company)
+Notes To The Financial Statements
+October 31, 2006
+- --------------------------------------------------------------------------------
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+   STOCK-BASED COMPENSATION
+
+   In December 2004, the FASB issued SFAS No. 123R, "Share-Based Payment", which
+   replaced  SFAS  No.  123,  "Accounting  for  Stock-Based   Compensation"  and
+   superseded APB Opinion No. 25, "Accounting for Stock Issued to Employees". In
+   January 2005,  the Securities  and Exchange  Commission  ("SEC") issued Staff
+   Accounting Bulletin ("SAB") No. 107,  "Share-Based  Payment",  which provides
+   supplemental  implementation  guidance  for SFAS  No.  123R.  SFAS  No.  123R
+   requires all share-based payments to employees,  including grants of employee
+   stock  options,  to be recognized in the  financial  statements  based on the
+   grant date fair value of the award.  SFAS No.  123R was to be  effective  for
+   interim or annual reporting  periods beginning on or after June 15, 2005, but
+   in April  2005 the SEC issued a rule that will  permit  most  registrants  to
+   implement  SFAS No. 123R at the beginning of their next fiscal year,  instead
+   of the next  reporting  period as required by SFAS No.  123R.  The  pro-forma
+   disclosures  previously  permitted  under SFAS No.  123 no longer  will be an
+   alternative  to financial  statement  recognition.  Under SFAS No. 123R,  the
+   Company  must  determine  the  appropriate  fair  value  model to be used for
+   valuing share-based  payments,  the amortization method for compensation cost
+   and the  transition  method to be used at date of  adoption.  The  transition
+   methods  include  prospective  and retroactive  adoption  options.  Under the
+   retroactive options, prior periods may be restated either as of the beginning
+   of the year of adoption or for all periods presented.  The prospective method
+   requires that compensation expense be recorded for all unvested stock options
+   and  restricted  stock at the  beginning of the first  quarter of adoption of
+   SFAS No.  123R,  while the  retroactive  methods  would  record  compensation
+   expense for all unvested  stock options and restricted  stock  beginning with
+   the first period restated.  The Company has adopted the prospective method of
+   SFAS No. 123R on August 1, 2005, the beginning of fiscal year 2006.  2006. As
+   the  Company  had  no  outstanding   stock  options  at  August  1,  2005  no
+   compensation expense was recorded.
+
+   RECENT ACCOUNTING PRONOUNCEMENTS
+
+   In February  2006,  the FASB issued  SFAS No.  155,  "Accounting  for Certain
+   Hybrid  Financial  Instruments-an  amendment of FASB  Statements  No. 133 and
+   140",  to  simplify  and make more  consistent  the  accounting  for  certain
+   financial  instruments.  SFAS No. 155 amends  SFAS No. 133,  "Accounting  for
+   Derivative  Instruments  and  Hedging  Activities",   to  permit  fair  value
+   re-measurement   for  any  hybrid  financial   instrument  with  an  embedded
+   derivative that otherwise would require bifurcation,  provided that the whole
+   instrument is accounted  for on a fair value basis.  SFAS No. 155 amends SFAS
+   No. 140, "Accounting for the Impairment or Disposal of Long-Lived Assets", to
+   allow a  qualifying  special-purpose  entity to hold a  derivative  financial
+   instrument  that  pertains  to  a  beneficial  interest  other  than  another
+   derivative  financial  instrument.  SFAS No.  155  applies  to all  financial
+   instruments  acquired or issued  after the  beginning  of an  entity's  first
+   fiscal year that begins after  September 15, 2006,  with earlier  application
+   allowed.  This standard is not expected to have a  significant  effect on the
+   Company's future reported financial position or results of operations.
+
+   In March 2006,  the FASB issued SFAS No. 156,  "Accounting  for  Servicing of
+   Financial  Assets,  an amendment of FASB  Statement No. 140,  Accounting  for
+   Transfers  and  Servicing  of  Financial   Assets  and   Extinguishments   of
+   Liabilities".  This statement  requires all separately  recognized  servicing
+   assets and  servicing  liabilities  be initially  measured at fair value,  if
+   practicable,  and permits for subsequent  measurement using either fair value
+   measurement  with  changes  in  fair  value  reflected  in  earnings  or  the
+   amortization and impairment requirements of Statement No. 140. The subsequent
+   measurement  of  separately   recognized   servicing   assets  and  servicing
+   liabilities  at fair value  eliminates the necessity for entities that manage
+   the risks  inherent  in  servicing  assets  and  servicing  liabilities  with
+   derivatives  to qualify for hedge  accounting  treatment and  eliminates  the
+   characterization   of  declines  in  fair  value  as  impairments  or  direct
+   write-downs.  SFAS No. 156 is  effective  for an entity's  first  fiscal year
+   beginning  after  September 15, 2006.  This adoption of this statement is not
+   expected  to have a  significant  effect  on the  Company's  future  reported
+   financial position or results of operations.
+
+                                      F-8
+ 
+MADRONA VENTURES INC.
+(An Exploration Stage Company)
+Notes To The Financial Statements
+October 31, 2006
+- --------------------------------------------------------------------------------
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+   RECENT ACCOUNTING PRONOUNCEMENTS (CONTINUED)
+
+   In September 2006, the FASB issued SFAS No. 157, "FAIR VALUE MEASURES" ("SFAS
+   No. 157").  This  Statement  defines fair value,  establishes a framework for
+   measuring  fair value in generally  accepted  accounting  principles  (GAAP),
+   expands  disclosures about fair value  measurements,  and applies under other
+   accounting  pronouncements  that  require or permit fair value  measurements.
+   SFAS No. 157 does not require any new fair value measurements.  However,  the
+   FASB anticipates that for some entities, the application of SFAS No. 157 will
+   change current practice.  SFAS No. 157 is effective for financial  statements
+   issued for fiscal years  beginning  after  November  15, 2007,  which for the
+   Company  would be its fiscal year  beginning  August 1, 2008.  The Company is
+   currently  evaluating  the impact of SFAS No. 157 but does not expect that it
+   will have a material impact on its financial statements.
+
+   In September 2006, the FASB issued SFAS No. 158,  "Employers'  Accounting for
+   Defined  Benefit  Pension and Other  Postretirement  Plans."  This  Statement
+   requires an employer to recognize the over funded or under funded status of a
+   defined benefit post retirement plan (other than a multiemployer  plan) as an
+   asset or liability in its statement of financial  position,  and to recognize
+   changes in that funded  status in the year in which the changes occur through
+   comprehensive income. SFAS No. 158 is effective for fiscal years ending after
+   December 15, 2006.  The Company  does not expect that the  implementation  of
+   SFAS No. 158 will have any  material  impact on its  financial  position  and
+   results of operations.
+
+   In September 2006, the SEC issued Staff Accounting  Bulletin ("SAB") No. 108,
+   "Considering  the  Effects  of  Prior  Year  Misstatements  when  Quantifying
+   Misstatements  in Current Year Financial  Statements."  SAB No. 108 addresses
+   how the effects of prior year uncorrected  misstatements should be considered
+   when quantifying misstatements in current year financial statements.  SAB No.
+   108 requires  companies to quantify  misstatements  using a balance sheet and
+   income statement  approach and to evaluate whether either approach results in
+   quantifying an error that is material in light of relevant  quantitative  and
+   qualitative  factors.  SAB No. 108 is  effective  for  periods  ending  after
+   November 15, 2006. This standard is not expected to have a significant effect
+   on the Company's future reported financial position or result of operations.
+
+3. MINERAL INTERESTS
+
+   TELLURIC GOLD CLAIM, BRITISH COLUMBIA, CANADA
+
+   By a Bill of Sale dated May 1, 2006,  the Company  acquired a 100%  undivided
+   right,  title and interest in and to the Telluric  Gold Claim  located in the
+   province of British Columbia,  Canada from an unrelated party.  Consideration
+   for the acquisition was $20,000.  Cumulative  property costs of $39,015 (July
+   31 2006-$31,447) were charged to operations.
+
+4. CAPITAL STOCK
+
+   The  total  number  of  common  shares  authorized  that may be issued by the
+   Company  is  75,000,000  shares  with a par  value  of one  tenth of one cent
+   ($0.001) per share and no other class of shares is authorized.
+
+   During the year ended July 31, 2006, the Company issued  6,525,000  shares of
+   common stock for total cash proceeds of $55,500.
+
+   At July 31, 2006, there were no outstanding stock options or warrants.
+
+5. INCOME TAXES
+
+   As of July 31, 2006,  the Company had net  operating  loss carry  forwards of
+   approximately  $32,000 that may be available to reduce future years'  taxable
+   income through 2026. Future tax benefits which may arise as a result of these
+   losses  have not been  recognized  in these  financial  statements,  as their
+   realization  is determined not likely to occur and  accordingly,  the Company
+   has recorded a valuation  allowance  for the  deferred tax asset  relating to
+   these tax loss carry-forwards.
+
+                                      F-9
+ 
+ 
+ 
+-----END PRIVACY-ENHANCED MESSAGE-----
